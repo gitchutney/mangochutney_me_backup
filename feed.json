@@ -7,6 +7,56 @@
 	"items": [
 		
 			{
+				"id": "http://mangochutney.micro.blog/2021/08/08/ugh-ted-lasso.html",
+				
+				"content_html": "<p>Ugh. Ted Lasso. What an amazing series.</p>\n",
+				"content_text": "Ugh. Ted Lasso. What an amazing series. \n",
+				"date_published": "2021-08-08T11:00:42+02:00",
+				"url": "https://www.mangochutney.me/2021/08/08/ugh-ted-lasso.html"
+			},
+			{
+				"id": "http://mangochutney.micro.blog/2021/08/05/ryan-reynolds-cracks.html",
+				
+				"content_html": "<p>Ryan Reynolds cracks me up: &ldquo;<a href=\"https://www.youtube.com/watch?v=quI772XuCpo\">Next Level Reynolds</a>&ldquo;</p>\n\n\n<div style=\"position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;\">\n  <iframe src=\"//www.youtube.com/embed/quI772XuCpo\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;\" allowfullscreen title=\"YouTube Video\"></iframe>\n</div>\n\n",
+				"content_text": "Ryan Reynolds cracks me up: \"[Next Level Reynolds](https://www.youtube.com/watch?v=quI772XuCpo)\"\r\n\r\n{{< youtube quI772XuCpo >}} \n",
+				"date_published": "2021-08-05T09:10:51+02:00",
+				"url": "https://www.mangochutney.me/2021/08/05/ryan-reynolds-cracks.html"
+			},
+			{
+				"id": "http://mangochutney.micro.blog/2021/08/03/me-right-before.html",
+				
+				"content_html": "<p>Me right before getting the second COVID vaccine dose this morning:</p>\n\n<p><img src=\"https://photos.smugmug.com/Geteilte-Alben-und-content-delivery/n-XxcfNJ/Blog/i-fDf2vwv/0/187b7ea3/O/startrek-lowerdecks-letsdothis.gif\" alt=\"\" title=\"Animated gif: First officer Sam Rutherford of the USS Cerritos from the animated TV series Star Trek Lower Decks tearing off his upper uniform to reveal a muscular upper body, screaming, “Let’s do this!”\" /></p>\n\n<p>And me right after the jab:</p>\n\n<p><img src=\"https://photos.smugmug.com/Geteilte-Alben-und-content-delivery/n-XxcfNJ/Blog/i-SbDPppW/0/cf357605/O/startrek-lowerdecks-ascension-icanseeeverything.gif\" alt=\"\" title=\"Animated gif: officer from the USS Cerritos from the animated TV series Star Trek Lower Decks going into a state of ascension, turning into a being of blue energy, calling out, “I can see everything!”\" /></p>\n",
+				"content_text": "Me right before getting the second COVID vaccine dose this morning:\n\n![](https://photos.smugmug.com/Geteilte-Alben-und-content-delivery/n-XxcfNJ/Blog/i-fDf2vwv/0/187b7ea3/O/startrek-lowerdecks-letsdothis.gif \"Animated gif: First officer Sam Rutherford of the USS Cerritos from the animated TV series Star Trek Lower Decks tearing off his upper uniform to reveal a muscular upper body, screaming, “Let’s do this!”\")\n\nAnd me right after the jab:\n\n![](https://photos.smugmug.com/Geteilte-Alben-und-content-delivery/n-XxcfNJ/Blog/i-SbDPppW/0/cf357605/O/startrek-lowerdecks-ascension-icanseeeverything.gif \"Animated gif: officer from the USS Cerritos from the animated TV series Star Trek Lower Decks going into a state of ascension, turning into a being of blue energy, calling out, “I can see everything!”\")\n",
+				"date_published": "2021-08-03T14:39:00+02:00",
+				"url": "https://www.mangochutney.me/2021/08/03/me-right-before.html"
+			},
+			{
+				"id": "http://mangochutney.micro.blog/2021/08/03/im-wartebereich-vor.html",
+				
+				"content_html": "<p>Im Wartebereich vor den Behandlungskabinen im Freiburger Impfzentrum läuft auf einem Fernseher ein Infofilm über die Notwendigkeit und Vorteile einer Impfung gegen COVID.</p>\n\n<p>🤨 🤔 Ähm… ich glaube die Leute, die hier sind haben das schon kapiert.</p>\n",
+				"content_text": "Im Wartebereich vor den Behandlungskabinen im Freiburger Impfzentrum läuft auf einem Fernseher ein Infofilm über die Notwendigkeit und Vorteile einer Impfung gegen COVID.\n\n🤨 🤔 Ähm… ich glaube die Leute, die hier sind haben das schon kapiert. \n",
+				"date_published": "2021-08-03T11:31:08+02:00",
+				"url": "https://www.mangochutney.me/2021/08/03/im-wartebereich-vor.html",
+				"tags": ["auf Deutsch"]
+			},
+			{
+				"id": "http://mangochutney.micro.blog/2021/07/30/ive-said-it.html",
+				
+				"content_html": "<p>I‘ve said it before and I‘ll say it again, I deeply enjoy it when @MrNishKumar loses his shit laughing on a podcast. This time <a href=\"https://overcast.fm/+poU2ZOFho\">on the latest episode</a> of @HelloGarglers.</p>\n",
+				"content_text": "I‘ve said it before and I‘ll say it again, I deeply enjoy it when @MrNishKumar loses his shit laughing on a podcast. This time [on the latest episode](https://overcast.fm/+poU2ZOFho) of @HelloGarglers.\n",
+				"date_published": "2021-07-30T15:51:38+02:00",
+				"url": "https://www.mangochutney.me/2021/07/30/ive-said-it.html"
+			},
+			{
+				"id": "http://mangochutney.micro.blog/2021/07/30/ich-wohne-jetzt.html",
+				
+				"content_html": "<p>Ich wohne jetzt seit über einem Jahr im Raum Freiburg i. Br. und ich bin verwundert und enttäuscht, dass ich immer noch keine Kaffeerösterei gefunden habe, die Mondo del Caffè annähernd das Wasser reichen kann.</p>\n",
+				"content_text": "Ich wohne jetzt seit über einem Jahr im Raum Freiburg i. Br. und ich bin verwundert und enttäuscht, dass ich immer noch keine Kaffeerösterei gefunden habe, die Mondo del Caffè annähernd das Wasser reichen kann. \n",
+				"date_published": "2021-07-30T08:02:16+02:00",
+				"url": "https://www.mangochutney.me/2021/07/30/ich-wohne-jetzt.html",
+				"tags": ["auf Deutsch"]
+			},
+			{
 				"id": "http://mangochutney.micro.blog/2021/07/29/tilda-swinton-is.html",
 				
 				"content_html": "<p>Tilda Swinton is amazing.</p>\n",
@@ -3198,7 +3248,7 @@
 			{
 				"id": "http://mangochutney.micro.blog/2020/06/05/clip-of-kimberly.html",
 				
-				"content_html": "<p>Clip of <a href=\"https://twitter.com/kimlatricejones\">Kimberly Jones</a> on the riots, property damage, and the broken social contract.</p>\n\n<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Deaf/HoH/ESL folks, we got your back! Here is a captioned version of this video. Anti-racism &amp; social justice should be accessible to all. Please tag/DM <a href=\"https://twitter.com/ProtestAccess?ref_src=twsrc%5Etfw\">@ProtestAccess</a> &amp; we will caption/transcribe any <a href=\"https://twitter.com/hashtag/BLM?src=hash&amp;ref_src=twsrc%5Etfw\">#BLM</a> content for you.<br><br>People sharing this vid, consider sharing this version! <a href=\"https://t.co/OEDgnxIbp7\">pic.twitter.com/OEDgnxIbp7</a></p>&mdash; Zhaneel | COMMISSIONS OPEN (@dogvoter) <a href=\"https://twitter.com/dogvoter/status/1268689406979948544?ref_src=twsrc%5Etfw\">June 4, 2020</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n\n<p>She&rsquo;s right.</p>\n\n<p>Longer source video below. Well worth watching and sharing.</p>\n\n\n<div style=\"position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;\">\n  <iframe src=\"//www.youtube.com/embed/sb9_qGOa9Go\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;\" allowfullscreen title=\"YouTube Video\"></iframe>\n</div>\n\n",
+				"content_html": "<p>Clip of <a href=\"https://twitter.com/kimlatricejones\">Kimberly Jones</a> on the riots, property damage, and the broken social contract.</p>\n\n<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Deaf/HoH/ESL folks, we got your back! Here is a captioned version of this video. Anti-racism &amp; social justice should be accessible to all. Please tag/DM <a href=\"https://twitter.com/ProtestAccess?ref_src=twsrc%5Etfw\">@ProtestAccess</a> &amp; we will caption/transcribe any <a href=\"https://twitter.com/hashtag/BLM?src=hash&amp;ref_src=twsrc%5Etfw\">#BLM</a> content for you.<br><br>People sharing this vid, consider sharing this version! <a href=\"https://t.co/OEDgnxIbp7\">pic.twitter.com/OEDgnxIbp7</a></p>&mdash; was @dogvoter, now @zhaneel | COMMS OPEN (@zhaneel) <a href=\"https://twitter.com/zhaneel/status/1268689406979948544?ref_src=twsrc%5Etfw\">June 4, 2020</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n\n<p>She&rsquo;s right.</p>\n\n<p>Longer source video below. Well worth watching and sharing.</p>\n\n\n<div style=\"position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;\">\n  <iframe src=\"//www.youtube.com/embed/sb9_qGOa9Go\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;\" allowfullscreen title=\"YouTube Video\"></iframe>\n</div>\n\n",
 				"content_text": "Clip of [Kimberly Jones](https://twitter.com/kimlatricejones) on the riots, property damage, and the broken social contract.\r\n\r\n{{< tweet 1268689406979948544 >}}\r\n\r\nShe's right.\r\n\r\nLonger source video below. Well worth watching and sharing.\r\n\r\n{{< youtube sb9_qGOa9Go >}}\n",
 				"date_published": "2020-06-05T11:39:35+02:00",
 				"url": "https://www.mangochutney.me/2020/06/05/clip-of-kimberly.html"
