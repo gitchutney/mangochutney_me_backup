@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://mangochutney.micro.blog/2021/08/22/a-couple-of.html",
+				
+				"content_html": "<p>A couple of rides later, I&rsquo;m not hating the fenders. Still getting used to how it looks on the gravel bike but it&rsquo;s not bad. 🚲</p>\n\n<p><img src=\"https://photos.smugmug.com/photos/i-ZpcJZNq/0/17825d37/X5/i-ZpcJZNq-X5.jpg\" alt=\"\" title=\"Silver titanium gravel bike with tan wall tyres, shiny black fenders, and red drop bar tape leaning against a thick vertical steel pipe. All in front of a vista with a few hills.\" /></p>\n",
+				"content_text": "A couple of rides later, I'm not hating the fenders. Still getting used to how it looks on the gravel bike but it's not bad. 🚲\n\n![](https://photos.smugmug.com/photos/i-ZpcJZNq/0/17825d37/X5/i-ZpcJZNq-X5.jpg \"Silver titanium gravel bike with tan wall tyres, shiny black fenders, and red drop bar tape leaning against a thick vertical steel pipe. All in front of a vista with a few hills.\")\n",
+				"date_published": "2021-08-22T10:11:45+02:00",
+				"url": "https://www.mangochutney.me/2021/08/22/a-couple-of.html",
+				"tags": ["Photos","Cycling"]
+			},
+			{
+				"id": "http://mangochutney.micro.blog/2021/08/16/working-from-a.html",
+				
+				"content_html": "<p>Working from a café in Staufen im Breisgau and <em>whew</em> they do not mess around with the espresso here. Impressive stuff.</p>\n",
+				"content_text": "Working from a café in Staufen im Breisgau and _whew_ they do not mess around with the espresso here. Impressive stuff.\n",
+				"date_published": "2021-08-16T11:23:54+02:00",
+				"url": "https://www.mangochutney.me/2021/08/16/working-from-a.html"
+			},
+			{
 				"id": "http://mangochutney.micro.blog/2021/08/15/fenderised-battle-cat.html",
 				
 				"content_html": "<p>Fender-ised Battle Cat (my gravel bike) with SKS Bluemels Longboard today. Installing these is an indescribably massive faff and I will wait a few rides before trimming the stabilising rods. Still, I&rsquo;m not hating the look so far. Coverage should be great. 🚲</p>\n",
@@ -8033,7 +8050,7 @@
 			{
 				"id": "http://mangochutney.micro.blog/2018/05/07/i-wholeheartedly-agree.html",
 				"title": "I wholeheartedly agree with this assessment",
-				"content_html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">A pangolin is just a sloth who has reached level 10 as a Paladin, and I won&#39;t be convinced otherwise. <a href=\"https://t.co/Qp4BZgtvuh\">pic.twitter.com/Qp4BZgtvuh</a></p>&mdash; Bryan &quot;insight checks the DM&quot; Camp (@bryancamp) <a href=\"https://twitter.com/bryancamp/status/978022140346806274?ref_src=twsrc%5Etfw\">March 25, 2018</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
+				"content_html": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">A pangolin is just a sloth who has reached level 10 as a Paladin, and I won&#39;t be convinced otherwise. <a href=\"https://t.co/Qp4BZgtvuh\">pic.twitter.com/Qp4BZgtvuh</a></p>&mdash; Bryan Camp on revision hiatus (@bryancamp) <a href=\"https://twitter.com/bryancamp/status/978022140346806274?ref_src=twsrc%5Etfw\">March 25, 2018</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
 				"content_text": "{{< tweet 978022140346806274 >}} \n",
 				"date_published": "2018-05-07T08:37:00+02:00",
 				"url": "https://www.mangochutney.me/2018/05/07/i-wholeheartedly-agree.html"
