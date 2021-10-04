@@ -7,10 +7,53 @@
 	"items": [
 		
 			{
+				"id": "http://mangochutney.micro.blog/2021/10/04/liebe-grnen-bitte.html",
+				
+				"content_html": "<p>Liebe Grünen, bitte macht eine progressive, auf CO2-Ausstoß und Gewicht basierende Kfz-Steuer in den Koalitionsverhandlungen zur Bedingung. Moderiert von strenger Bedarfskontrolle: Landwirte, Menschen mit Behinderung, etc. = günstig; SUV/Limousine für Außentermine = prohibitiv.</p>\n",
+				"content_text": "Liebe Grünen, bitte macht eine progressive, auf CO2-Ausstoß und Gewicht basierende Kfz-Steuer in den Koalitionsverhandlungen zur Bedingung. Moderiert von strenger Bedarfskontrolle: Landwirte, Menschen mit Behinderung, etc. = günstig; SUV/Limousine für Außentermine = prohibitiv.\n",
+				"date_published": "2021-10-04T12:28:10+02:00",
+				"url": "https://www.mangochutney.me/2021/10/04/liebe-grnen-bitte.html",
+				"tags": ["auf Deutsch"]
+			},
+			{
+				"id": "http://mangochutney.micro.blog/2021/10/02/these-arrived-yesterday.html",
+				
+				"content_html": "<p>These arrived yesterday and all I can say is, <em>„Moo-gie!“</em></p>\n\n<p>(If you heard this in Rom‘s voice in your head, you’re one of my people. 🖖 )</p>\n\n<p><img src=\"https://photos.smugmug.com/photos/i-Mfn2hNk/0/4714bd80/X5/i-Mfn2hNk-X5.jpg\" alt=\"\" title=\"Two stickers showing the Ferengi Ishka, mother of Quark and Rom in a defiant pose, saying, „The Future is Fe-Male“. One sticker and one metal showing Garak the Cardassian with his arms open, a rainbow behind him and the text „Friend of Garak“ in the Deep Space Nine font.\" /></p>\n\n<p>Art by Will Burrows (@dwight_tokem on Twitter)</p>\n",
+				"content_text": "These arrived yesterday and all I can say is, _„Moo-gie!“_\n\n(If you heard this in Rom‘s voice in your head, you’re one of my people. 🖖 )\n\n![](https://photos.smugmug.com/photos/i-Mfn2hNk/0/4714bd80/X5/i-Mfn2hNk-X5.jpg \"Two stickers showing the Ferengi Ishka, mother of Quark and Rom in a defiant pose, saying, „The Future is Fe-Male“. One sticker and one metal showing Garak the Cardassian with his arms open, a rainbow behind him and the text „Friend of Garak“ in the Deep Space Nine font.\")\n\nArt by Will Burrows (@dwight_tokem on Twitter)\n",
+				"date_published": "2021-10-02T09:15:24+02:00",
+				"url": "https://www.mangochutney.me/2021/10/02/these-arrived-yesterday.html"
+			},
+			{
+				"id": "http://mangochutney.micro.blog/2021/10/01/i-just-backed.html",
+				
+				"content_html": "<p>🚲 I just backed <em>JACK The Bike Rack</em> on @kickstarter\n<a href=\"https://www.kickstarter.com/projects/milesgibbons/jack-the-bike-rack\">www.kickstarter.com/projects/&hellip;</a></p>\n\n<p>Two reviews from places I trust:<br />\n<a href=\"https://www.youtube.com/watch?v=6LuB9v_BzEU\">www.youtube.com/watch</a><br />\n<a href=\"https://bikepacking.com/gear/jack-bike-rack-review/\">bikepacking.com/gear/jack&hellip;</a></p>\n",
+				"content_text": "🚲 I just backed _JACK The Bike Rack_ on @kickstarter\r\n[www.kickstarter.com/projects/...](https://www.kickstarter.com/projects/milesgibbons/jack-the-bike-rack)\r\n\r\nTwo reviews from places I trust:  \r\n[www.youtube.com/watch](https://www.youtube.com/watch?v=6LuB9v_BzEU)  \r\n[bikepacking.com/gear/jack...](https://bikepacking.com/gear/jack-bike-rack-review/)  \n",
+				"date_published": "2021-10-01T19:06:57+02:00",
+				"url": "https://www.mangochutney.me/2021/10/01/i-just-backed.html",
+				"tags": ["Cycling"]
+			},
+			{
+				"id": "http://mangochutney.micro.blog/2021/09/30/hi-ich-melde.html",
+				
+				"content_html": "<p>Hi! Ich melde mich heute mal als Autofahrer (… Hmm? Oh, einen Subaru Forester, danke der Nachfrage.)</p>\n\n<p>Ich bin für generelles Tempo 130 auf Autobahnen, Tempo 30 in Ortschaften, und <a href=\"https://www1.wdr.de/nachrichten/ruhrgebiet/autbahnkreuz-ausbau-hof-abriss-100.html\">gegen den Abriss historischer Gebäude für den sinnfreien Neubau von Autobahnen</a>.</p>\n",
+				"content_text": "Hi! Ich melde mich heute mal als Autofahrer (… Hmm? Oh, einen Subaru Forester, danke der Nachfrage.)\r\n\r\nIch bin für generelles Tempo 130 auf Autobahnen, Tempo 30 in Ortschaften, und [gegen den Abriss historischer Gebäude für den sinnfreien Neubau von Autobahnen](https://www1.wdr.de/nachrichten/ruhrgebiet/autbahnkreuz-ausbau-hof-abriss-100.html).\n",
+				"date_published": "2021-09-30T12:17:12+02:00",
+				"url": "https://www.mangochutney.me/2021/09/30/hi-ich-melde.html",
+				"tags": ["auf Deutsch"]
+			},
+			{
+				"id": "http://mangochutney.micro.blog/2021/09/30/just-used-the.html",
+				
+				"content_html": "<p>Just used the new @1Password × @Fastmail <a href=\"https://blog.1password.com/fastmail-masked-email/\">Masked Email</a> feature while setting up a Garmin Connect account.\nI&rsquo;ve been creating randomised email aliases in Fastmail manually for years and frankly love having this automation going forward.</p>\n",
+				"content_text": "Just used the new @1Password × @Fastmail [Masked Email](https://blog.1password.com/fastmail-masked-email/) feature while setting up a Garmin Connect account.\r\nI've been creating randomised email aliases in Fastmail manually for years and frankly love having this automation going forward.\n",
+				"date_published": "2021-09-30T10:36:18+02:00",
+				"url": "https://www.mangochutney.me/2021/09/30/just-used-the.html"
+			},
+			{
 				"id": "http://mangochutney.micro.blog/2021/09/25/alleine-diese-klare.html",
 				
-				"content_html": "<p>Alleine diese klare Aussage macht Bearbock zu einer besseren Wahl für das Amt der Kanzlerin als Scholz und Laschet. Leute, geht wählen und verschwendet eure Stimme nicht auf CDU, SPD, oder eine der kleinen und radikalen Parteien.</p>\n\n<p><img src=\"uploads/2021/e606e240ef.png\" width=\"600\" height=\"478\" alt=\"Tweet von Annalena Bearbock von 07. August 2021: Das Pariser Klimabkommen ist ein internationaler Vertrag, keine freiwillige Absichtserklärung. Das müssen auch Armin Laschet und Olaf Scholz begreifen. Wer immer nur dagegen ist und Vorschläge ablehnt, ohne selbst welche zu machen, gefährdet den Industriestandort Deutschland. \" /></p>\n",
-				"content_text": "Alleine diese klare Aussage macht Bearbock zu einer besseren Wahl für das Amt der Kanzlerin als Scholz und Laschet. Leute, geht wählen und verschwendet eure Stimme nicht auf CDU, SPD, oder eine der kleinen und radikalen Parteien.\n\n<img src=\"uploads/2021/e606e240ef.png\" width=\"600\" height=\"478\" alt=\"Tweet von Annalena Bearbock von 07. August 2021: Das Pariser Klimabkommen ist ein internationaler Vertrag, keine freiwillige Absichtserklärung. Das müssen auch Armin Laschet und Olaf Scholz begreifen. Wer immer nur dagegen ist und Vorschläge ablehnt, ohne selbst welche zu machen, gefährdet den Industriestandort Deutschland. \" />\n",
+				"content_html": "<p>Alleine diese klare Aussage macht Bearbock zu einer besseren Wahl für das Amt der Kanzlerin als Scholz und Laschet. Leute, geht wählen und verschwendet eure Stimme nicht auf CDU, SPD, oder eine der kleinen und radikalen Parteien.</p>\n\n<p><img src=\"https://www.mangochutney.me/uploads/2021/e606e240ef.png\" width=\"600\" height=\"478\" alt=\"Tweet von Annalena Bearbock von 07. August 2021: Das Pariser Klimabkommen ist ein internationaler Vertrag, keine freiwillige Absichtserklärung. Das müssen auch Armin Laschet und Olaf Scholz begreifen. Wer immer nur dagegen ist und Vorschläge ablehnt, ohne selbst welche zu machen, gefährdet den Industriestandort Deutschland. \" /></p>\n",
+				"content_text": "Alleine diese klare Aussage macht Bearbock zu einer besseren Wahl für das Amt der Kanzlerin als Scholz und Laschet. Leute, geht wählen und verschwendet eure Stimme nicht auf CDU, SPD, oder eine der kleinen und radikalen Parteien.\n\n<img src=\"https://www.mangochutney.me/uploads/2021/e606e240ef.png\" width=\"600\" height=\"478\" alt=\"Tweet von Annalena Bearbock von 07. August 2021: Das Pariser Klimabkommen ist ein internationaler Vertrag, keine freiwillige Absichtserklärung. Das müssen auch Armin Laschet und Olaf Scholz begreifen. Wer immer nur dagegen ist und Vorschläge ablehnt, ohne selbst welche zu machen, gefährdet den Industriestandort Deutschland. \" />\n",
 				"date_published": "2021-09-25T16:56:08+02:00",
 				"url": "https://www.mangochutney.me/2021/09/25/alleine-diese-klare.html",
 				"tags": ["auf Deutsch"]
@@ -48,6 +91,15 @@
 				"content_text": "The 6th episode of Star Trek: Lower Decks was hilarious, as expected. For a second I thought they used the scream of the goat [from a viral video from a few years back (think: Taylor Swift × Goat)](think: Taylor Swift × Goat) for the slimy slug that ate Tendi. 🖖\n",
 				"date_published": "2021-09-22T12:50:22+02:00",
 				"url": "https://www.mangochutney.me/2021/09/22/the-th-episode.html"
+			},
+			{
+				"id": "http://mangochutney.micro.blog/2021/09/21/am-sonntag-ist.html",
+				
+				"content_html": "<p>Am Sonntag ist Bundestagswahl. Die Grünen sind nicht perfekt, stellen aber aktuell unsere beste Chance dar, die Klimakatastrophe und den <a href=\"https://twitter.com/JRehborn/status/1440205506715418639\">Rechtsruck</a> zu bekämpfen.</p>\n\n<p>Lasst uns alle ein Signal senden, Grün wählen und dann dafür sorgen, dass sie halten, was sie versprochen haben.</p>\n",
+				"content_text": "Am Sonntag ist Bundestagswahl. Die Grünen sind nicht perfekt, stellen aber aktuell unsere beste Chance dar, die Klimakatastrophe und den [Rechtsruck](https://twitter.com/JRehborn/status/1440205506715418639) zu bekämpfen.\n\nLasst uns alle ein Signal senden, Grün wählen und dann dafür sorgen, dass sie halten, was sie versprochen haben.\n",
+				"date_published": "2021-09-21T12:30:47+02:00",
+				"url": "https://www.mangochutney.me/2021/09/21/am-sonntag-ist.html",
+				"tags": ["auf Deutsch"]
 			},
 			{
 				"id": "http://mangochutney.micro.blog/2021/09/21/just-saw-this.html",
