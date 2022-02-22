@@ -7,6 +7,39 @@
 	"items": [
 		
 			{
+				"id": "http://mangochutney.micro.blog/2022/02/21/this-continues-to.html",
+				
+				"content_html": "<p><a href=\"https://youtu.be/eU9JRYzUBBg\">This continues to be one of the best scenes in all of Star Wars, in my opinion.</a></p>\n\n\n<div style=\"position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;\">\n  <iframe src=\"//www.youtube.com/embed/eU9JRYzUBBg\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;\" allowfullscreen title=\"YouTube Video\"></iframe>\n</div>\n\n",
+				"content_text": "[This continues to be one of the best scenes in all of Star Wars, in my opinion.](https://youtu.be/eU9JRYzUBBg)\r\n\r\n{{< youtube eU9JRYzUBBg >}} \n",
+				"date_published": "2022-02-21T15:33:18+01:00",
+				"url": "https://www.mangochutney.me/2022/02/21/this-continues-to.html"
+			},
+			{
+				"id": "http://mangochutney.micro.blog/2022/02/21/realy-enjoying-the.html",
+				
+				"content_html": "<p>Really enjoying the seamlessness of Apple Fitness+. I can use the iPhone or iPad for the exercises, or even send image and sound to my TV. All connected to the Apple Watch.</p>\n",
+				"content_text": "Really enjoying the seamlessness of Apple Fitness+. I can use the iPhone or iPad for the exercises, or even send image and sound to my TV. All connected to the Apple Watch. \n",
+				"date_published": "2022-02-21T10:03:00+01:00",
+				"url": "https://www.mangochutney.me/2022/02/21/realy-enjoying-the.html"
+			},
+			{
+				"id": "http://mangochutney.micro.blog/2022/02/17/wellmade-argument-for.html",
+				
+				"content_html": "<p><a href=\"https://www.youtube.com/watch?v=RUTlc5Uhq90\">Well-made argument for PressFit bottom brackets on the BikeRadar youtube channel.</a></p>\n\n<p>I&rsquo;ve had massive problems with PF30 on a Canyon aluminium CX bike that I no longer own but on my two Litespeed bikes, it&rsquo;s been problem-free for years. I do like BSA, though. 🚲</p>\n",
+				"content_text": "[Well-made argument for PressFit bottom brackets on the BikeRadar youtube channel.](https://www.youtube.com/watch?v=RUTlc5Uhq90)\r\n\r\nI've had massive problems with PF30 on a Canyon aluminium CX bike that I no longer own but on my two Litespeed bikes, it's been problem-free for years. I do like BSA, though. 🚲\n",
+				"date_published": "2022-02-17T09:40:51+01:00",
+				"url": "https://www.mangochutney.me/2022/02/17/wellmade-argument-for.html",
+				"tags": ["Cycling"]
+			},
+			{
+				"id": "http://mangochutney.micro.blog/2022/02/16/molly-whites-web.html",
+				
+				"content_html": "<p><a href=\"https://web3isgoinggreat.com\">Molly White&rsquo;s &ldquo;Web3 is going just great&rdquo;</a> is a daily source of headshaking, laughter, and Schadenfreude for me.</p>\n",
+				"content_text": "[Molly White's \"Web3 is going just great\"](https://web3isgoinggreat.com) is a daily source of headshaking, laughter, and Schadenfreude for me.\n",
+				"date_published": "2022-02-16T10:59:54+01:00",
+				"url": "https://www.mangochutney.me/2022/02/16/molly-whites-web.html"
+			},
+			{
 				"id": "http://mangochutney.micro.blog/2022/02/14/apple-has-a.html",
 				
 				"content_html": "<p>Apple has a worthwhile <a href=\"https://fitness.apple.com/de/workout/meditation-mit-joanna/1605280591\">meditation session in Fitness+ to practice awareness of Black History</a>. Enjoyed it. When asked to think of a well-known Black person, my mind immediately went to Nichelle Nichols.</p>\n",
