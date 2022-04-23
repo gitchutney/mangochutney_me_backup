@@ -7,10 +7,76 @@
 	"items": [
 		
 			{
+				"id": "http://mangochutney.micro.blog/2022/04/23/aktuell-gibt-es.html",
+				
+				"content_html": "<p>Aktuell gibt es wieder mehr Phishing-Angriffe auf Nutzer von eBay-Kleinanzeigen. <a href=\"https://www.heise.de/news/Phishing-bei-eBay-Kleinanzeigen-Betrueger-nehmen-per-Messenger-Kontakt-auf-6906363.html\">Genaures in diesem Artikel auf heise online.</a> Passt bitte auf Leute.</p>\n",
+				"content_text": "Aktuell gibt es wieder mehr Phishing-Angriffe auf Nutzer von eBay-Kleinanzeigen. [Genaures in diesem Artikel auf heise online.](https://www.heise.de/news/Phishing-bei-eBay-Kleinanzeigen-Betrueger-nehmen-per-Messenger-Kontakt-auf-6906363.html) Passt bitte auf Leute.\n",
+				"date_published": "2022-04-23T10:42:32+02:00",
+				"url": "https://www.mangochutney.me/2022/04/23/aktuell-gibt-es.html",
+				"tags": ["auf Deutsch"]
+			},
+			{
+				"id": "http://mangochutney.micro.blog/2022/04/22/first-big-annoyance.html",
+				
+				"content_html": "<p>First big annoyance being back on Windows:<br />\nTyping a non-breaking space, en- or em-dashes is unnecessarily difficult. Like, ridiculously.</p>\n",
+				"content_text": "First big annoyance being back on Windows:  \r\nTyping a non-breaking space, en- or em-dashes is unnecessarily difficult. Like, ridiculously.\n",
+				"date_published": "2022-04-22T10:44:01+02:00",
+				"url": "https://www.mangochutney.me/2022/04/22/first-big-annoyance.html"
+			},
+			{
+				"id": "http://mangochutney.micro.blog/2022/04/21/the-lenovo-thinkpad.html",
+				
+				"content_html": "<p>The Lenovo ThinkPad X12 Detachable arrived. Been a while since I had a proper Windows PC. The hardware is so well made. Very different approach to what I&rsquo;ve been used to from Apple for the past 14 years but good nevertheless.</p>\n",
+				"content_text": "The Lenovo ThinkPad X12 Detachable arrived. Been a while since I had a proper Windows PC. The hardware is so well made. Very different approach to what I've been used to from Apple for the past 14 years but good nevertheless.\n",
+				"date_published": "2022-04-21T12:29:11+02:00",
+				"url": "https://www.mangochutney.me/2022/04/21/the-lenovo-thinkpad.html"
+			},
+			{
+				"id": "http://mangochutney.micro.blog/2022/04/21/everything-about-this.html",
+				
+				"content_html": "<p>Everything about this looks fun. I really hope they can build on the previous Thor movie.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=tgB1wUcmbbw\">Marvel Studios&rsquo; Thor: Love and Thunder</a></p>\n\n\n<div style=\"position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;\">\n  <iframe src=\"//www.youtube.com/embed/tgB1wUcmbbw\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;\" allowfullscreen title=\"YouTube Video\"></iframe>\n</div>\n\n",
+				"content_text": "Everything about this looks fun. I really hope they can build on the previous Thor movie.\r\n\r\n[Marvel Studios' Thor: Love and Thunder](https://www.youtube.com/watch?v=tgB1wUcmbbw)\r\n\r\n{{< youtube tgB1wUcmbbw >}}  \n",
+				"date_published": "2022-04-21T09:09:37+02:00",
+				"url": "https://www.mangochutney.me/2022/04/21/everything-about-this.html"
+			},
+			{
+				"id": "http://mangochutney.micro.blog/2022/04/20/i-finally-caved.html",
+				"title": "I finally caved and ordered a Windows tablet",
+				"content_html": "<p>With WWDC coming, I was about to write another post clamouring, pleading, even begging for a macOS tablet or iPadOS becoming less of a limiting factor for the applications it runs. I like macOS and iPadOS mostly and the app ecosystem for Apple&rsquo;s operating systems is hard to beat. Yet not a day goes by that I don&rsquo;t wish I could perform certain tasks on my iPad Pro that I can do on my MacBook Pro, or interact with content on my MacBook Pro&rsquo;s screen by touching it, or just grabbing the disply to read something in portrait mode.</p>\n\n<p>Instead of writing that article again, I finally broke down and ordered a ThinkPad X12 Detachable.</p>\n\n<p>I hesitated taking the plunge because</p>\n\n<ul>\n<li>the hardware is well over a year old already,</li>\n<li>the Microsoft Surface Pro 8 exists and is better in many ways (higher-resolution display, better colour reproduction, two Thunderbolt 4 ports) and</li>\n<li>devices of this class with Intel&rsquo;s new Alder Lake architecture are right around the corner.</li>\n</ul>\n\n<p>That&rsquo;s always the issue, though, right? Something new and better is always around the corner. In the end, I decided to go for it because</p>\n\n<ul>\n<li>I found a demonstration unit in supposedly &ldquo;as good as new&rdquo; condition for a decent price with a lot of warranty still in place,</li>\n<li>I&rsquo;ve always had a soft spot for the ThinkPad design language,</li>\n<li>the display is going to be good enough for my use (as good as the iPad Pro display in terms of colour reproduction),</li>\n<li>it has LTE built-in,</li>\n<li>and I&rsquo;m definitely going to enjoy the keyboard.</li>\n</ul>\n\n<p>It&rsquo;s going to be interesting finding Windows alternatives to my favourite and most-used applications from both macOS and iPadOS.</p>\n",
+				"content_text": "With WWDC coming, I was about to write another post clamouring, pleading, even begging for a macOS tablet or iPadOS becoming less of a limiting factor for the applications it runs. I like macOS and iPadOS mostly and the app ecosystem for Apple's operating systems is hard to beat. Yet not a day goes by that I don't wish I could perform certain tasks on my iPad Pro that I can do on my MacBook Pro, or interact with content on my MacBook Pro's screen by touching it, or just grabbing the disply to read something in portrait mode.\r\n\r\nInstead of writing that article again, I finally broke down and ordered a ThinkPad X12 Detachable.\r\n\r\nI hesitated taking the plunge because\r\n\r\n* the hardware is well over a year old already,\r\n* the Microsoft Surface Pro 8 exists and is better in many ways (higher-resolution display, better colour reproduction, two Thunderbolt 4 ports) and\r\n* devices of this class with Intel's new Alder Lake architecture are right around the corner.\r\n\r\nThat's always the issue, though, right? Something new and better is always around the corner. In the end, I decided to go for it because \r\n\r\n* I found a demonstration unit in supposedly \"as good as new\" condition for a decent price with a lot of warranty still in place,\r\n* I've always had a soft spot for the ThinkPad design language, \r\n* the display is going to be good enough for my use (as good as the iPad Pro display in terms of colour reproduction),\r\n* it has LTE built-in,\r\n* and I'm definitely going to enjoy the keyboard.\r\n\r\nIt's going to be interesting finding Windows alternatives to my favourite and most-used applications from both macOS and iPadOS.\n",
+				"date_published": "2022-04-20T14:00:46+02:00",
+				"url": "https://www.mangochutney.me/2022/04/20/i-finally-caved.html",
+				"tags": ["Articles"]
+			},
+			{
+				"id": "http://mangochutney.micro.blog/2022/04/20/the-ending-of.html",
+				
+				"content_html": "<p>The ending of episode 4 of Moon Knight was beautifully weird.<br />\n:chefskiss: 📺</p>\n",
+				"content_text": "The ending of episode 4 of Moon Knight was beautifully weird.  \n:chefskiss: 📺\n",
+				"date_published": "2022-04-20T12:09:00+02:00",
+				"url": "https://www.mangochutney.me/2022/04/20/the-ending-of.html"
+			},
+			{
+				"id": "http://mangochutney.micro.blog/2022/04/20/this-may-be.html",
+				
+				"content_html": "<p>This may be a new record: @ZaltzCricket managed to get @MrNishKumar lose his shit less than a minute into <a href=\"https://overcast.fm/+HitJhHHkg\">episode 4226 of The Bugle</a>.</p>\n",
+				"content_text": "This may be a new record: @ZaltzCricket managed to get @MrNishKumar lose his shit less than a minute into [episode 4226 of The Bugle](https://overcast.fm/+HitJhHHkg).\n",
+				"date_published": "2022-04-20T11:08:43+02:00",
+				"url": "https://www.mangochutney.me/2022/04/20/this-may-be.html"
+			},
+			{
+				"id": "http://mangochutney.micro.blog/2022/04/20/obligatory-youtube-arqnpik.html",
+				
+				"content_html": "<p><a href=\"https://youtu.be/ar8qnPi37k4\">Obligatory.</a></p>\n\n\n<div style=\"position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;\">\n  <iframe src=\"//www.youtube.com/embed/ar8qnPi37k4\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;\" allowfullscreen title=\"YouTube Video\"></iframe>\n</div>\n\n",
+				"content_text": "[Obligatory.](https://youtu.be/ar8qnPi37k4)\r\n\r\n{{< youtube ar8qnPi37k4 >}} \n",
+				"date_published": "2022-04-20T08:14:40+02:00",
+				"url": "https://www.mangochutney.me/2022/04/20/obligatory-youtube-arqnpik.html"
+			},
+			{
 				"id": "http://mangochutney.micro.blog/2022/04/15/ok-der-war.html",
 				
-				"content_html": "<p>Ok, der war echt lecker.<br />\n(Von Weingut Hiss in Eichstetten am Kaiserstuhl.)</p>\n\n<p><img src=\"uploads/2022/39a06a578c.jpg\" width=\"599\" height=\"600\" alt=\"Untere Hälfte einer grünen Weinflasche mit Fokus auf das Etikett. Weinsorte: Spätburgunder, trocken; Jahrgang: 2019\" /></p>\n",
-				"content_text": "Ok, der war echt lecker.  \n(Von Weingut Hiss in Eichstetten am Kaiserstuhl.)\n\n<img src=\"uploads/2022/39a06a578c.jpg\" width=\"599\" height=\"600\" alt=\"Untere Hälfte einer grünen Weinflasche mit Fokus auf das Etikett. Weinsorte: Spätburgunder, trocken; Jahrgang: 2019\" />\n",
+				"content_html": "<p>Ok, der war echt lecker.<br />\n(Von Weingut Hiss in Eichstetten am Kaiserstuhl.)</p>\n\n<p><img src=\"https://www.mangochutney.me/uploads/2022/39a06a578c.jpg\" width=\"599\" height=\"600\" alt=\"Untere Hälfte einer grünen Weinflasche mit Fokus auf das Etikett. Weinsorte: Spätburgunder, trocken; Jahrgang: 2019\" /></p>\n",
+				"content_text": "Ok, der war echt lecker.  \n(Von Weingut Hiss in Eichstetten am Kaiserstuhl.)\n\n<img src=\"https://www.mangochutney.me/uploads/2022/39a06a578c.jpg\" width=\"599\" height=\"600\" alt=\"Untere Hälfte einer grünen Weinflasche mit Fokus auf das Etikett. Weinsorte: Spätburgunder, trocken; Jahrgang: 2019\" />\n",
 				"date_published": "2022-04-15T13:50:13+02:00",
 				"url": "https://www.mangochutney.me/2022/04/15/ok-der-war.html",
 				"tags": ["Photos","auf Deutsch"]
@@ -101,8 +167,8 @@
 			{
 				"id": "http://mangochutney.micro.blog/2022/03/27/sunday-fun-day.html",
 				
-				"content_html": "<p>Sunday fun day. Even when I’m pushing my bike + dog trailer + dog up a 30% gradient.</p>\n\n<p><img src=\"uploads/2022/876c34fba7.jpg\" alt=\"Man pushing a mountain bike with an attached dog trailer holding a dog up a very steep incline. The man is leaning over an into the task intently because od the strain.\" /></p>\n\n<p>(Photo taken by my friend Dirk Breuer.) 🚲 📷</p>\n",
-				"content_text": "Sunday fun day. Even when I’m pushing my bike + dog trailer + dog up a 30% gradient.\n\n<img src=\"uploads/2022/876c34fba7.jpg\" alt=\"Man pushing a mountain bike with an attached dog trailer holding a dog up a very steep incline. The man is leaning over an into the task intently because od the strain.\" />\n\n(Photo taken by my friend Dirk Breuer.) 🚲 📷\n",
+				"content_html": "<p>Sunday fun day. Even when I’m pushing my bike + dog trailer + dog up a 30% gradient.</p>\n\n<p><img src=\"https://www.mangochutney.me/uploads/2022/876c34fba7.jpg\" alt=\"Man pushing a mountain bike with an attached dog trailer holding a dog up a very steep incline. The man is leaning over an into the task intently because od the strain.\" /></p>\n\n<p>(Photo taken by my friend Dirk Breuer.) 🚲 📷</p>\n",
+				"content_text": "Sunday fun day. Even when I’m pushing my bike + dog trailer + dog up a 30% gradient.\n\n<img src=\"https://www.mangochutney.me/uploads/2022/876c34fba7.jpg\" alt=\"Man pushing a mountain bike with an attached dog trailer holding a dog up a very steep incline. The man is leaning over an into the task intently because od the strain.\" />\n\n(Photo taken by my friend Dirk Breuer.) 🚲 📷\n",
 				"date_published": "2022-03-27T20:01:27+02:00",
 				"url": "https://www.mangochutney.me/2022/03/27/sunday-fun-day.html"
 			},
@@ -2943,7 +3009,7 @@
 			{
 				"id": "http://mangochutney.micro.blog/2021/01/16/wissenschaft-ist-schon.html",
 				
-				"content_html": "<p><a href=\"https://twitter.com/sascha_p/status/1348177788348588033\">Wissenschaft ist schon was Tolles!</a></p>\n\n<blockquote class=\"twitter-tweet\"><p lang=\"de\" dir=\"ltr\">Neueste Studien haben ergeben, dass wenn man Pandas beim Bambus mampfen zuhoert, sich der eigene Stresslevel um 23% reduziert. <br><br>Ich habs probiert und es stimmt! :)<a href=\"https://t.co/uimv5pHrcW\">https://t.co/uimv5pHrcW</a></p>&mdash; Sascha (潘賞世) Pallenberg (@sascha_p) <a href=\"https://twitter.com/sascha_p/status/1348177788348588033?ref_src=twsrc%5Etfw\">January 10, 2021</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
+				"content_html": "<p><a href=\"https://twitter.com/sascha_p/status/1348177788348588033\">Wissenschaft ist schon was Tolles!</a></p>\n\n<blockquote class=\"twitter-tweet\"><p lang=\"de\" dir=\"ltr\">Neueste Studien haben ergeben, dass wenn man Pandas beim Bambus mampfen zuhoert, sich der eigene Stresslevel um 23% reduziert. <br><br>Ich habs probiert und es stimmt! :)<a href=\"https://t.co/uimv5pHrcW\">https://t.co/uimv5pHrcW</a></p>&mdash; Sascha Pallenberg 🇹🇼 (潘賞世) (@sascha_p) <a href=\"https://twitter.com/sascha_p/status/1348177788348588033?ref_src=twsrc%5Etfw\">January 10, 2021</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
 				"content_text": "[Wissenschaft ist schon was Tolles!](https://twitter.com/sascha_p/status/1348177788348588033)\n\n{{< tweet 1348177788348588033 >}}\n",
 				"date_published": "2021-01-17T00:20:56+02:00",
 				"url": "https://www.mangochutney.me/2021/01/16/wissenschaft-ist-schon.html",
@@ -6398,7 +6464,7 @@
 			{
 				"id": "http://mangochutney.micro.blog/2019/11/05/a-new-spiderverse.html",
 				"title": "A new Spider-Verse movie has been announced",
-				"content_html": "<p>Sony/Marvel announced a new Spider-Verse movie and I&rsquo;m so happy this is coming. Even though we&rsquo;ll all have to be patient because the film&rsquo;s release is scheduled for 2022.<br />\n&ldquo;<a href=\"https://boxd.it/azpY\">Spider-Man: Into the Spider-Verse</a>&rdquo; has quickly become one of my comfort food films. I don&rsquo;t remember when a movie made it onto this list so quickly and I must&rsquo;ve watched it more than 10 times already.</p>\n\n<p>Can&rsquo;t wait.</p>\n\n<blockquote class=\"twitter-tweet\"><p lang=\"es\" dir=\"ltr\">April 8, 2022 🕷 <a href=\"https://twitter.com/hashtag/SpiderVerse?src=hash&amp;ref_src=twsrc%5Etfw\">#SpiderVerse</a> <a href=\"https://t.co/FC5nVIuciB\">pic.twitter.com/FC5nVIuciB</a></p>&mdash; Spider-Man: Across The Spider-Verse (Part One) (@SpiderVerse) <a href=\"https://twitter.com/SpiderVerse/status/1190373194374377472?ref_src=twsrc%5Etfw\">November 1, 2019</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
+				"content_html": "<p>Sony/Marvel announced a new Spider-Verse movie and I&rsquo;m so happy this is coming. Even though we&rsquo;ll all have to be patient because the film&rsquo;s release is scheduled for 2022.<br />\n&ldquo;<a href=\"https://boxd.it/azpY\">Spider-Man: Into the Spider-Verse</a>&rdquo; has quickly become one of my comfort food films. I don&rsquo;t remember when a movie made it onto this list so quickly and I must&rsquo;ve watched it more than 10 times already.</p>\n\n<p>Can&rsquo;t wait.</p>\n\n<blockquote class=\"twitter-tweet\"><p lang=\"es\" dir=\"ltr\">April 8, 2022 🕷 <a href=\"https://twitter.com/hashtag/SpiderVerse?src=hash&amp;ref_src=twsrc%5Etfw\">#SpiderVerse</a> <a href=\"https://t.co/FC5nVIuciB\">pic.twitter.com/FC5nVIuciB</a></p>&mdash; Spider-Man: Across The Spider-Verse (@SpiderVerse) <a href=\"https://twitter.com/SpiderVerse/status/1190373194374377472?ref_src=twsrc%5Etfw\">November 1, 2019</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
 				"content_text": "Sony/Marvel announced a new Spider-Verse movie and I'm so happy this is coming. Even though we'll all have to be patient because the film's release is scheduled for 2022.  \n\"[Spider-Man: Into the Spider-Verse](https://boxd.it/azpY)\" has quickly become one of my comfort food films. I don't remember when a movie made it onto this list so quickly and I must've watched it more than 10 times already.\n\nCan't wait.\n\n{{< tweet 1190373194374377472 >}}\n",
 				"date_published": "2019-11-05T12:24:00+02:00",
 				"url": "https://www.mangochutney.me/2019/11/05/a-new-spiderverse.html"
