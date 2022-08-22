@@ -7,6 +7,48 @@
 	"items": [
 		
 			{
+				"id": "http://mangochutney.micro.blog/2022/08/22/sprite-image-is.html",
+				
+				"content_html": "<p><em>Sprite</em> — Image is Nothing &amp; The Thirst Always Wins</p>\n",
+				"content_text": "_Sprite_ — Image is Nothing & The Thirst Always Wins\n",
+				"date_published": "2022-08-22T20:45:54+02:00",
+				"url": "https://www.mangochutney.me/2022/08/22/sprite-image-is.html"
+			},
+			{
+				"id": "http://mangochutney.micro.blog/2022/08/15/immer-wieder-lustig.html",
+				
+				"content_html": "<p>Immer wieder lustig zu sehen, wenn die Heute Show besseren Journalismus bietet als andere Formate und selbst in einem halb scherzhaften <a href=\"https://youtu.be/ztJcZsXy0TQ\">Interview zur Cannabis-Legalisierung</a> mit Karl Lauterbach gute Informationen liefert.</p>\n\n\n<div style=\"position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;\">\n  <iframe src=\"//www.youtube.com/embed/ztJcZsXy0TQ\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;\" allowfullscreen title=\"YouTube Video\"></iframe>\n</div>\n\n",
+				"content_text": "Immer wieder lustig zu sehen, wenn die Heute Show besseren Journalismus bietet als andere Formate und selbst in einem halb scherzhaften [Interview zur Cannabis-Legalisierung](https://youtu.be/ztJcZsXy0TQ) mit Karl Lauterbach gute Informationen liefert. \r\n\r\n{{< youtube ztJcZsXy0TQ >}} \n",
+				"date_published": "2022-08-15T13:56:48+02:00",
+				"url": "https://www.mangochutney.me/2022/08/15/immer-wieder-lustig.html",
+				"tags": ["auf Deutsch"]
+			},
+			{
+				"id": "http://mangochutney.micro.blog/2022/08/11/well-the-modelshttpstwittercomxrcambridgestatus.html",
+				
+				"content_html": "<p>Well <a href=\"https://twitter.com/xr_cambridge/status/1557482944708714499\">the models</a> probably didn&rsquo;t take into account how quickly and badly we&rsquo;d fuck up the planet in exchange for generating short-term shareholder value. 😡</p>\n",
+				"content_text": "Well [the models](https://twitter.com/xr_cambridge/status/1557482944708714499) probably didn't take into account how quickly and badly we'd fuck up the planet in exchange for generating short-term shareholder value. 😡\n",
+				"date_published": "2022-08-11T14:43:20+02:00",
+				"url": "https://www.mangochutney.me/2022/08/11/well-the-modelshttpstwittercomxrcambridgestatus.html"
+			},
+			{
+				"id": "http://mangochutney.micro.blog/2022/08/10/schnes-kompaktes-video.html",
+				
+				"content_html": "<p>Schönes, kompaktes <a href=\"https://youtu.be/0jyDbgMlbyk\">Video zu typischen Technikfehlern beim Rudern auf dem Ergometer</a> und wie sie vermieden werden können.</p>\n\n\n<div style=\"position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;\">\n  <iframe src=\"//www.youtube.com/embed/0jyDbgMlbyk\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;\" allowfullscreen title=\"YouTube Video\"></iframe>\n</div>\n\n",
+				"content_text": "Schönes, kompaktes [Video zu typischen Technikfehlern beim Rudern auf dem Ergometer](https://youtu.be/0jyDbgMlbyk) und wie sie vermieden werden können. \n\n{{< youtube 0jyDbgMlbyk >}}\n",
+				"date_published": "2022-08-10T08:31:12+02:00",
+				"url": "https://www.mangochutney.me/2022/08/10/schnes-kompaktes-video.html",
+				"tags": ["auf Deutsch"]
+			},
+			{
+				"id": "http://mangochutney.micro.blog/2022/08/09/why-do-i.html",
+				
+				"content_html": "<p>Why do I feel like rowing training destroys me in very different way compared to cycling?</p>\n",
+				"content_text": "Why do I feel like rowing training destroys me in very different way compared to cycling?\n",
+				"date_published": "2022-08-09T11:20:11+02:00",
+				"url": "https://www.mangochutney.me/2022/08/09/why-do-i.html"
+			},
+			{
 				"id": "http://mangochutney.micro.blog/2022/08/08/lizzie-philip-of.html",
 				
 				"content_html": "<p>Lizzie Philip of The Verge has a <a href=\"https://youtu.be/IiSBsFxTsa8\">video up on their Seeker Youtube channel</a> about the future of cultured meat. I&rsquo;ve been following this topic for a while now and this is a pretty good summary.</p>\n\n\n<div style=\"position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;\">\n  <iframe src=\"//www.youtube.com/embed/IiSBsFxTsa8\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;\" allowfullscreen title=\"YouTube Video\"></iframe>\n</div>\n\n",
@@ -12172,7 +12214,7 @@
 			{
 				"id": "http://mangochutney.micro.blog/2012/08/28/im-just-going.html",
 				"title": "I'm just going to leave this here",
-				"content_html": "<p>I know this has been around for more than a week, but it is too good not to repost.<br>If you're at all excited about the Curiosity mission, tap the link in the quoted tweet on an iOS device.</p>\n\n<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Here it is: <a href=\"http://t.co/5rupu21Y\">http://t.co/5rupu21Y</a><br><br>Go to that link on an iPhone or iPad. Open in Safari.<br><br>Be amazed.<br><br>NASA is fucking awesome.</p>&mdash; ʲHͦoͤˡusman (@joelhousman) <a href=\"https://twitter.com/joelhousman/status/235543180047695873?ref_src=twsrc%5Etfw\">August 15, 2012</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
+				"content_html": "<p>I know this has been around for more than a week, but it is too good not to repost.<br>If you're at all excited about the Curiosity mission, tap the link in the quoted tweet on an iOS device.</p>\n\n<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Here it is: <a href=\"http://t.co/5rupu21Y\">http://t.co/5rupu21Y</a><br><br>Go to that link on an iPhone or iPad. Open in Safari.<br><br>Be amazed.<br><br>NASA is fucking awesome.</p>&mdash; Joel Housman (@joelhousman) <a href=\"https://twitter.com/joelhousman/status/235543180047695873?ref_src=twsrc%5Etfw\">August 15, 2012</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
 				"content_text": "<p>I know this has been around for more than a week, but it is too good not to repost.<br>If you're at all excited about the Curiosity mission, tap the link in the quoted tweet on an iOS device.</p>\n\n{{< tweet 235543180047695873 >}} \n",
 				"date_published": "2012-08-28T13:44:00+02:00",
 				"url": "https://www.mangochutney.me/2012/08/28/im-just-going.html",
@@ -12366,7 +12408,7 @@
 			{
 				"id": "http://mangochutney.micro.blog/2012/06/07/hypercritical-tempus-fugit.html",
 				"title": "Hypercritical — Tempus Fugit",
-				"content_html": "<p>This is a bit of inside baseball, but funny nonetheless.</p><p><a href=\"http://5by5.tv/hypercritical\" target=\"_blank\">Hypercritical</a> is one of my favourite podcasts and I listen to it every week. You should, too.</p>\n\n<blockquote class=\"twitter-tweet\"><p lang=\"und\" dir=\"ltr\"><a href=\"http://t.co/3caCh9mL\">http://t.co/3caCh9mL</a> via <a href=\"https://twitter.com/JosephRooks?ref_src=twsrc%5Etfw\">@JosephRooks</a> /cc <a href=\"https://twitter.com/siracusa?ref_src=twsrc%5Etfw\">@siracusa</a></p>&mdash; Dan Benjamin (@danbenjamin) <a href=\"https://twitter.com/danbenjamin/status/209628019273371648?ref_src=twsrc%5Etfw\">June 4, 2012</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n",
+				"content_html": "<p>This is a bit of inside baseball, but funny nonetheless.</p><p><a href=\"http://5by5.tv/hypercritical\" target=\"_blank\">Hypercritical</a> is one of my favourite podcasts and I listen to it every week. You should, too.</p>\n\n\n",
 				"content_text": "<p>This is a bit of inside baseball, but funny nonetheless.</p><p><a href=\"http://5by5.tv/hypercritical\" target=\"_blank\">Hypercritical</a> is one of my favourite podcasts and I listen to it every week. You should, too.</p>\n\n{{< tweet 209628019273371648 >}} \n",
 				"date_published": "2012-06-07T17:15:00+02:00",
 				"url": "https://www.mangochutney.me/2012/06/07/hypercritical-tempus-fugit.html"
