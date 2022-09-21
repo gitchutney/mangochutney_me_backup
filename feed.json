@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://mangochutney.micro.blog/2022/09/21/yeheeeeees-theres-a.html",
+				
+				"content_html": "<p>Ye-heeeeees! There’s a new „<a href=\"https://youtu.be/yrpBHi4jUoY\">Jokes Seth can’t tell</a>“!</p>\n\n\n<div style=\"position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;\">\n  <iframe src=\"//www.youtube.com/embed/yrpBHi4jUoY\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;\" allowfullscreen title=\"YouTube Video\"></iframe>\n</div>\n\n",
+				"content_text": "Ye-heeeeees! There’s a new „[Jokes Seth can’t tell](https://youtu.be/yrpBHi4jUoY)“!\n\n{{< youtube yrpBHi4jUoY >}}\n",
+				"date_published": "2022-09-21T08:14:13+02:00",
+				"url": "https://www.mangochutney.me/2022/09/21/yeheeeeees-theres-a.html"
+			},
+			{
 				"id": "http://mangochutney.micro.blog/2022/09/10/since-the-successor.html",
 				
 				"content_html": "<p>Since the successor of my beloved clipless cycling shoes is a far cry from the fit and quality of the original, I‘ve decided to try something else and ordered some Specialized S-Works Recon Gravel shoes and a pair of Lake MX 238 X. Looking forward to trying them. 🚲</p>\n",
