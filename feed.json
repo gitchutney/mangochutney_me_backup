@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://mangochutney.micro.blog/2022/10/11/i-dont-post.html",
+				
+				"content_html": "<p>I don’t post stuff by The Lincoln Project often but <a href=\"https://youtu.be/3q5oBve0d8U\">this is a good one</a>. Republicans deride Biden’s policies as socialism, vote against it but open their hands for the money, because they know claiming to have improved their constituents’ lives may help them remain in power.</p>\n",
+				"content_text": "I don’t post stuff by The Lincoln Project often but [this is a good one](https://youtu.be/3q5oBve0d8U). Republicans deride Biden’s policies as socialism, vote against it but open their hands for the money, because they know claiming to have improved their constituents’ lives may help them remain in power.\n",
+				"date_published": "2022-10-11T23:01:54+02:00",
+				"url": "https://www.mangochutney.me/2022/10/11/i-dont-post.html"
+			},
+			{
+				"id": "http://mangochutney.micro.blog/2022/10/09/im-so-happy.html",
+				
+				"content_html": "<p>I&rsquo;m so happy the Amber Ruffin Show is back for a third season and <a href=\"https://youtu.be/HYRx3UHD2wc\">this segment</a> is honestly my favourite one of the entire show so far just for Amber&rsquo;s unadulterated glee.</p>\n\n\n<div style=\"position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;\">\n  <iframe src=\"//www.youtube.com/embed/HYRx3UHD2wc\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;\" allowfullscreen title=\"YouTube Video\"></iframe>\n</div>\n\n",
+				"content_text": "I'm so happy the Amber Ruffin Show is back for a third season and [this segment](https://youtu.be/HYRx3UHD2wc) is honestly my favourite one of the entire show so far just for Amber's unadulterated glee.\n\n{{< youtube HYRx3UHD2wc >}} \n",
+				"date_published": "2022-10-09T21:20:40+02:00",
+				"url": "https://www.mangochutney.me/2022/10/09/im-so-happy.html"
+			},
+			{
+				"id": "http://mangochutney.micro.blog/2022/10/08/the-latest-episode.html",
+				
+				"content_html": "<p>The latest episode of She-Hulk was amazing. The entire part where <em>Jennifer</em> is taking control flirting with Matt and then talking to the audience how satisfying it was, simply felt right. Also: calling out the „woman in the fridge“ trope to the audience‘s faces … I loved it.</p>\n",
+				"content_text": "The latest episode of She-Hulk was amazing. The entire part where _Jennifer_ is taking control flirting with Matt and then talking to the audience how satisfying it was, simply felt right. Also: calling out the „woman in the fridge“ trope to the audience‘s faces … I loved it.\n",
+				"date_published": "2022-10-08T21:00:56+02:00",
+				"url": "https://www.mangochutney.me/2022/10/08/the-latest-episode.html"
+			},
+			{
+				"id": "http://mangochutney.micro.blog/2022/10/07/the-bugle-excuse.html",
+				
+				"content_html": "<p><a href=\"https://overcast.fm/+HitLzI6Q8\">The Bugle: Excuse Me While I F**k The Sky (4242)</a></p>\n\n<p>Not gonna lie, @ZaltzCricket cracking up @MrNishKumar to the point where he loses his shit is giving me life.</p>\n",
+				"content_text": "[The Bugle: Excuse Me While I F\\*\\*k The Sky (4242)](https://overcast.fm/+HitLzI6Q8)\n\nNot gonna lie, @ZaltzCricket cracking up @MrNishKumar to the point where he loses his shit is giving me life. \n",
+				"date_published": "2022-10-07T08:10:44+02:00",
+				"url": "https://www.mangochutney.me/2022/10/07/the-bugle-excuse.html"
+			},
+			{
 				"id": "http://mangochutney.micro.blog/2022/10/05/the-goat-version.html",
 				
 				"content_html": "<p>The goat version of Taylor Swift&rsquo;s excellent &ldquo;I knew you were trouble&rdquo; is never not funny.</p>\n",
@@ -380,8 +412,8 @@
 			{
 				"id": "http://mangochutney.micro.blog/2022/05/19/walked-by-this.html",
 				
-				"content_html": "<p>Walked by this red poppy this morning. The petals looked like crinkled paper. 📷 🌺</p>\n\n<p><img src=\"uploads/2022/30f6fb085c.jpg\" alt=\"Closeup of the center of a red poppy. The majority of the frame is taken up by the red petals of the flower, with a green bush seen in the backgrpund in the top right corner. \" /></p>\n",
-				"content_text": "Walked by this red poppy this morning. The petals looked like crinkled paper. 📷 🌺\n\n<img src=\"uploads/2022/30f6fb085c.jpg\" alt=\"Closeup of the center of a red poppy. The majority of the frame is taken up by the red petals of the flower, with a green bush seen in the backgrpund in the top right corner. \" />\n",
+				"content_html": "<p>Walked by this red poppy this morning. The petals looked like crinkled paper. 📷 🌺</p>\n\n<p><img src=\"https://www.mangochutney.me/uploads/2022/30f6fb085c.jpg\" alt=\"Closeup of the center of a red poppy. The majority of the frame is taken up by the red petals of the flower, with a green bush seen in the backgrpund in the top right corner. \" /></p>\n",
+				"content_text": "Walked by this red poppy this morning. The petals looked like crinkled paper. 📷 🌺\n\n<img src=\"https://www.mangochutney.me/uploads/2022/30f6fb085c.jpg\" alt=\"Closeup of the center of a red poppy. The majority of the frame is taken up by the red petals of the flower, with a green bush seen in the backgrpund in the top right corner. \" />\n",
 				"date_published": "2022-05-19T15:33:31+02:00",
 				"url": "https://www.mangochutney.me/2022/05/19/walked-by-this.html"
 			},
