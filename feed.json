@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://mangochutney.micro.blog/2022/11/28/its-become-too.html",
+				
+				"content_html": "<p>It&rsquo;s become too cold for riding in cycling shoes and thick socks alone and I hate the faff of overshoes, so I just ordered two pairs of insulated and waterproof clipless shoes: The Fizik Terra Artica X2 and the Shimano SH-MW702. Let see which one fits better. 🚲</p>\n",
+				"content_text": "It's become too cold for riding in cycling shoes and thick socks alone and I hate the faff of overshoes, so I just ordered two pairs of insulated and waterproof clipless shoes: The Fizik Terra Artica X2 and the Shimano SH-MW702. Let see which one fits better. 🚲\n",
+				"date_published": "2022-11-28T15:10:47+01:00",
+				"url": "https://www.mangochutney.me/2022/11/28/its-become-too.html",
+				"tags": ["Cycling"]
+			},
+			{
+				"id": "http://mangochutney.micro.blog/2022/11/23/what-jenny-hagel.html",
+				
+				"content_html": "<p><a href=\"https://youtu.be/n5b8wifyJeg\">What Jenny Hagel says.</a></p>\n\n\n<div style=\"position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;\">\n  <iframe src=\"//www.youtube.com/embed/n5b8wifyJeg\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;\" allowfullscreen title=\"YouTube Video\"></iframe>\n</div>\n\n",
+				"content_text": "[What Jenny Hagel says.](https://youtu.be/n5b8wifyJeg)\n\n {{< youtube n5b8wifyJeg >}}\n",
+				"date_published": "2022-11-23T07:14:27+01:00",
+				"url": "https://www.mangochutney.me/2022/11/23/what-jenny-hagel.html"
+			},
+			{
 				"id": "http://mangochutney.micro.blog/2022/11/22/sitting-at-a.html",
 				
 				"content_html": "<p>Sitting at a car dealership, getting a few things fixed and modified on my Forester. They just handed me a cup of coffee. Someone here really enjoys good ☕️ because not only is it not terrible (as you&rsquo;d expect), it&rsquo;s tasty and strong as heck. I&rsquo;m having my butt whooped.</p>\n",
@@ -33,8 +50,8 @@
 			{
 				"id": "http://mangochutney.micro.blog/2022/11/15/out-with-the.html",
 				
-				"content_html": "<p>Out with the old, in with the new, I guess. Not happy about the fact that helmets essentially have an expiration date but 🤷‍♂️. Not going to risk it. The neon yellow Bell Zephyr is getting replaced with the dark grey and green Bell XR. 🚲</p>\n\n<p><img src=\"uploads/2022/2c3a1468d9.jpg\" width=\"600\" height=\"399\" alt=\"Two cycling helmets laying on a sealed concrete floor. A dark grey and green helmet in the foreground and on the left and a neon yellow helmet diagonally behind it and on the right. Both helmets face the viewer at an angle. The green helmet has straighter lines and a cleaner design overall while the neon yellow helmet has a more fluid, organic design with bigger vents.\"></p>\n",
-				"content_text": "Out with the old, in with the new, I guess. Not happy about the fact that helmets essentially have an expiration date but 🤷‍♂️. Not going to risk it. The neon yellow Bell Zephyr is getting replaced with the dark grey and green Bell XR. 🚲 \n\n<img src=\"uploads/2022/2c3a1468d9.jpg\" width=\"600\" height=\"399\" alt=\"Two cycling helmets laying on a sealed concrete floor. A dark grey and green helmet in the foreground and on the left and a neon yellow helmet diagonally behind it and on the right. Both helmets face the viewer at an angle. The green helmet has straighter lines and a cleaner design overall while the neon yellow helmet has a more fluid, organic design with bigger vents.\">\n",
+				"content_html": "<p>Out with the old, in with the new, I guess. Not happy about the fact that helmets essentially have an expiration date but 🤷‍♂️. Not going to risk it. The neon yellow Bell Zephyr is getting replaced with the dark grey and green Bell XR. 🚲</p>\n\n<p><img src=\"https://www.mangochutney.me/uploads/2022/2c3a1468d9.jpg\" width=\"600\" height=\"399\" alt=\"Two cycling helmets laying on a sealed concrete floor. A dark grey and green helmet in the foreground and on the left and a neon yellow helmet diagonally behind it and on the right. Both helmets face the viewer at an angle. The green helmet has straighter lines and a cleaner design overall while the neon yellow helmet has a more fluid, organic design with bigger vents.\"></p>\n",
+				"content_text": "Out with the old, in with the new, I guess. Not happy about the fact that helmets essentially have an expiration date but 🤷‍♂️. Not going to risk it. The neon yellow Bell Zephyr is getting replaced with the dark grey and green Bell XR. 🚲 \n\n<img src=\"https://www.mangochutney.me/uploads/2022/2c3a1468d9.jpg\" width=\"600\" height=\"399\" alt=\"Two cycling helmets laying on a sealed concrete floor. A dark grey and green helmet in the foreground and on the left and a neon yellow helmet diagonally behind it and on the right. Both helmets face the viewer at an angle. The green helmet has straighter lines and a cleaner design overall while the neon yellow helmet has a more fluid, organic design with bigger vents.\">\n",
 				"date_published": "2022-11-15T08:32:18+01:00",
 				"url": "https://www.mangochutney.me/2022/11/15/out-with-the.html",
 				"tags": ["Cycling"]
