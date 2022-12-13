@@ -7,6 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://mangochutney.micro.blog/2022/12/13/my-garden-is.html",
+				
+				"content_html": "<p>My garden is filled with borbs.</p>\n",
+				"content_text": "My garden is filled with borbs.\n",
+				"date_published": "2022-12-13T08:25:04+01:00",
+				"url": "https://www.mangochutney.me/2022/12/13/my-garden-is.html"
+			},
+			{
+				"id": "http://mangochutney.micro.blog/2022/12/09/finally-replaced-my.html",
+				
+				"content_html": "<p>Finally replaced my aging 2016 MacBook Pro and went for a M2 MacBook Air. Really impressed with the computing power this thing has: I&rsquo;m running a Windows 11 VM full-screen on a 5K2K LG ultra wide monitor and macOS on the internal display and the machine doesn&rsquo;t even get warm.</p>\n",
+				"content_text": "Finally replaced my aging 2016 MacBook Pro and went for a M2 MacBook Air. Really impressed with the computing power this thing has: I'm running a Windows 11 VM full-screen on a 5K2K LG ultra wide monitor and macOS on the internal display and the machine doesn't even get warm.\n",
+				"date_published": "2022-12-09T16:05:13+01:00",
+				"url": "https://www.mangochutney.me/2022/12/09/finally-replaced-my.html"
+			},
+			{
+				"id": "http://mangochutney.micro.blog/2022/12/07/i-do-enjoy.html",
+				
+				"content_html": "<p>I do enjoy me some hiking, even in cold and misty weather like this past Sunday.</p>\n\n<p><img src=\"uploads/2022/c757f1f3d8.jpg\" alt=\"Foreground: Flowing grassy hilltop covered in frost and some snow. Closed off on the right hand side in the near distance by trees. Background: Foggy skies and barely visible hills.\"><img src=\"uploads/2022/d1925aca9b.jpg\" alt=\"A path covered in brown leaves stretching into the distance. Coniferous trees, roughly 4 metres high flank the path as it disappears into mist in the distance. Higher trees are visibile in the background.\"></p>\n",
+				"content_text": "I do enjoy me some hiking, even in cold and misty weather like this past Sunday.\n\n<img src=\"uploads/2022/c757f1f3d8.jpg\" alt=\"Foreground: Flowing grassy hilltop covered in frost and some snow. Closed off on the right hand side in the near distance by trees. Background: Foggy skies and barely visible hills.\"><img src=\"uploads/2022/d1925aca9b.jpg\" alt=\"A path covered in brown leaves stretching into the distance. Coniferous trees, roughly 4 metres high flank the path as it disappears into mist in the distance. Higher trees are visibile in the background.\">\n",
+				"date_published": "2022-12-07T09:09:28+01:00",
+				"url": "https://www.mangochutney.me/2022/12/07/i-do-enjoy.html",
+				"tags": ["Photos"]
+			},
+			{
 				"id": "http://mangochutney.micro.blog/2022/12/03/whats-a-huge.html",
 				
 				"content_html": "<p>What’s a huge upside to hearing Josh Gondelman‘s voice on <a href=\"https://www.thebuglepodcast.com/\">The Bugle and The Gargle</a> so often? I read excellent articles like “<a href=\"https://www.mcsweeneys.net/articles/how-to-hate-a-jew-like-a-jew\">How to hate a Jew like a Jew</a>” in his voice in my head. Oh and if you like Josh’s stuff, <a href=\"https://joshgondelman.substack.com/\">he has a newsletter on substack now</a> that’s definitely worth subscribing to.</p>\n",
@@ -150,8 +175,8 @@
 			{
 				"id": "http://mangochutney.micro.blog/2022/11/01/really-digging-these.html",
 				
-				"content_html": "<p>Really digging these cycling socks designs from The Radavist. 🧦 🚲</p>\n\n<p><img src=\"uploads/2022/4ef6385108.jpg\" alt=\"Right foot photographed from the front and left, in a matte teal clipless cycling shoe with black laces. Focus is on the dark grey socks with a pattern of diagonal lavender-coloured stripes.\"></p>\n",
-				"content_text": "Really digging these cycling socks designs from The Radavist. 🧦 🚲 \n\n<img src=\"uploads/2022/4ef6385108.jpg\" alt=\"Right foot photographed from the front and left, in a matte teal clipless cycling shoe with black laces. Focus is on the dark grey socks with a pattern of diagonal lavender-coloured stripes.\">\n",
+				"content_html": "<p>Really digging these cycling socks designs from The Radavist. 🧦 🚲</p>\n\n<p><img src=\"https://www.mangochutney.me/uploads/2022/4ef6385108.jpg\" alt=\"Right foot photographed from the front and left, in a matte teal clipless cycling shoe with black laces. Focus is on the dark grey socks with a pattern of diagonal lavender-coloured stripes.\"></p>\n",
+				"content_text": "Really digging these cycling socks designs from The Radavist. 🧦 🚲 \n\n<img src=\"https://www.mangochutney.me/uploads/2022/4ef6385108.jpg\" alt=\"Right foot photographed from the front and left, in a matte teal clipless cycling shoe with black laces. Focus is on the dark grey socks with a pattern of diagonal lavender-coloured stripes.\">\n",
 				"date_published": "2022-11-01T18:08:18+01:00",
 				"url": "https://www.mangochutney.me/2022/11/01/really-digging-these.html"
 			},
@@ -182,8 +207,8 @@
 			{
 				"id": "http://mangochutney.micro.blog/2022/10/25/took-the-dog.html",
 				
-				"content_html": "<p>Took the dog for a quick walk in the forest. It was 19°C outside. On 25 October. WTF.</p>\n\n<p><img src=\"uploads/2022/e3bb8e1ec3.jpg\" alt=\"Downward look at an outstrechted leg standing on a pedal over a red bike frame. The person is wearing yellow shorts and black sandals.\"></p>\n",
-				"content_text": "Took the dog for a quick walk in the forest. It was 19°C outside. On 25 October. WTF. \n\n<img src=\"uploads/2022/e3bb8e1ec3.jpg\" alt=\"Downward look at an outstrechted leg standing on a pedal over a red bike frame. The person is wearing yellow shorts and black sandals.\">\n",
+				"content_html": "<p>Took the dog for a quick walk in the forest. It was 19°C outside. On 25 October. WTF.</p>\n\n<p><img src=\"https://www.mangochutney.me/uploads/2022/e3bb8e1ec3.jpg\" alt=\"Downward look at an outstrechted leg standing on a pedal over a red bike frame. The person is wearing yellow shorts and black sandals.\"></p>\n",
+				"content_text": "Took the dog for a quick walk in the forest. It was 19°C outside. On 25 October. WTF. \n\n<img src=\"https://www.mangochutney.me/uploads/2022/e3bb8e1ec3.jpg\" alt=\"Downward look at an outstrechted leg standing on a pedal over a red bike frame. The person is wearing yellow shorts and black sandals.\">\n",
 				"date_published": "2022-10-25T19:38:58+01:00",
 				"url": "https://www.mangochutney.me/2022/10/25/took-the-dog.html"
 			},
