@@ -7,10 +7,35 @@
 	"items": [
 		
 			{
+				"id": "http://mangochutney.micro.blog/2023/04/19/es-muss-mal.html",
+				
+				"content_html": "<p>Es muss mal wieder gesagt werden:<br />\nMitarbeiter der Kirchen (Priester, Pastoren, etc.) müssen der weltlichen Gerichtsbarkeit unterstehen. Es ist untragbar, dass hier überhaupt eine Trennung existiert. Speziell die katholische Kirche ist für mich  nichts weiter als eine mafiöse Organisation.</p>\n",
+				"content_text": "Es muss mal wieder gesagt werden:  \r\nMitarbeiter der Kirchen (Priester, Pastoren, etc.) müssen der weltlichen Gerichtsbarkeit unterstehen. Es ist untragbar, dass hier überhaupt eine Trennung existiert. Speziell die katholische Kirche ist für mich  nichts weiter als eine mafiöse Organisation.\n",
+				"date_published": "2023-04-19T19:06:58+02:00",
+				"url": "https://www.mangochutney.me/2023/04/19/es-muss-mal.html",
+				"tags": ["auf Deutsch"]
+			},
+			{
+				"id": "http://mangochutney.micro.blog/2023/04/12/oh-this-is.html",
+				
+				"content_html": "<p>Oh <a href=\"https://www.youtube.com/watch?v=iuk77TjvfmE\">this</a> is going to be <strong><em>AWESOME!</em></strong></p>\n\n\n<div style=\"position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;\">\n  <iframe src=\"//www.youtube.com/embed/iuk77TjvfmE\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;\" allowfullscreen title=\"YouTube Video\"></iframe>\n</div>\n\n",
+				"content_text": "Oh [this](https://www.youtube.com/watch?v=iuk77TjvfmE) is going to be **_AWESOME!_**\n\n{{< youtube iuk77TjvfmE >}}\n",
+				"date_published": "2023-04-12T09:15:00+02:00",
+				"url": "https://www.mangochutney.me/2023/04/12/oh-this-is.html"
+			},
+			{
+				"id": "http://mangochutney.micro.blog/2023/04/12/im-still-madly.html",
+				
+				"content_html": "<p>I&rsquo;m still madly amused by GM&rsquo;s asinine decision to no longer offer Apple CarPlay or Android Auto in their future electric vehicles. They are trying really, really hard to ignore how important convenient integration of their smartphone is to a person.</p>\n",
+				"content_text": "I'm still madly amused by GM's asinine decision to no longer offer Apple CarPlay or Android Auto in their future electric vehicles. They are trying really, really hard to ignore how important convenient integration of their smartphone is to a person.\n",
+				"date_published": "2023-04-12T07:44:19+02:00",
+				"url": "https://www.mangochutney.me/2023/04/12/im-still-madly.html"
+			},
+			{
 				"id": "http://mangochutney.micro.blog/2023/04/11/hat-schon-was.html",
 				
-				"content_html": "<p>Hat schon was, dieses Freiburg. 📷</p>\n\n<p><img src=\"https://photos.smugmug.com/photos/i-gmK9bdr/0/ed046ae5/4K/i-gmK9bdr-4K.jpg &quot;Cathedral of Freiburg im Breisgau shot from the rooftop terrace of a restaurant. The left part of the cathedral is partially obscured (including the main entrance\" alt=\"\" /> by the buildings leading to the Münsterplatz. Parts of the market taking place on the Münsterplatz are visible, as well as many people. In the distance more of the rooftops of Freiburg can be seen and in the far distance the forest beginning on the Schlossberg.&ldquo;)</p>\n",
-				"content_text": "Hat schon was, dieses Freiburg. 📷 \r\n\r\n![](https://photos.smugmug.com/photos/i-gmK9bdr/0/ed046ae5/4K/i-gmK9bdr-4K.jpg \"Cathedral of Freiburg im Breisgau shot from the rooftop terrace of a restaurant. The left part of the cathedral is partially obscured (including the main entrance) by the buildings leading to the Münsterplatz. Parts of the market taking place on the Münsterplatz are visible, as well as many people. In the distance more of the rooftops of Freiburg can be seen and in the far distance the forest beginning on the Schlossberg.\")\n",
+				"content_html": "<p>Hat schon was, dieses Freiburg. 📷</p>\n\n<p><img src=\"https://photos.smugmug.com/photos/i-gmK9bdr/0/ed046ae5/4K/i-gmK9bdr-4K.jpg\" alt=\"\" title=\"Cathedral of Freiburg im Breisgau shot from the rooftop terrace of a restaurant. The left part of the cathedral is partially obscured, including the main entrance, by the buildings leading to the Münsterplatz. Parts of the market taking place on the Münsterplatz are visible, as well as many people. In the distance more of the rooftops of Freiburg can be seen and in the far distance the forest beginning on the Schlossberg.\" /></p>\n",
+				"content_text": "Hat schon was, dieses Freiburg. 📷 \n\n![](https://photos.smugmug.com/photos/i-gmK9bdr/0/ed046ae5/4K/i-gmK9bdr-4K.jpg \"Cathedral of Freiburg im Breisgau shot from the rooftop terrace of a restaurant. The left part of the cathedral is partially obscured, including the main entrance, by the buildings leading to the Münsterplatz. Parts of the market taking place on the Münsterplatz are visible, as well as many people. In the distance more of the rooftops of Freiburg can be seen and in the far distance the forest beginning on the Schlossberg.\")\n",
 				"date_published": "2023-04-11T10:38:34+02:00",
 				"url": "https://www.mangochutney.me/2023/04/11/hat-schon-was.html",
 				"tags": ["Photos"]
