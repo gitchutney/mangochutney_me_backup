@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://mangochutney.micro.blog/2023/05/24/hey-remember-when.html",
+				
+				"content_html": "<p>Hey, remember when we were connecting a palmtops to cellphones over IrDA? Fun times. Back then “WAP” meant something entirely different.</p>\n",
+				"content_text": "Hey, remember when we were connecting a palmtops to cellphones over IrDA? Fun times. Back then “WAP” meant something entirely different. \n",
+				"date_published": "2023-05-24T10:24:43+02:00",
+				"url": "https://www.mangochutney.me/2023/05/24/hey-remember-when.html"
+			},
+			{
+				"id": "http://mangochutney.micro.blog/2023/05/17/hari-kondabolu-vacation.html",
+				
+				"content_html": "<p><a href=\"https://www.youtube.com/watch?v=M860rsymDXM\">Hari Kondabolu – Vacation Baby</a></p>\n\n<p>I just watched the last 15 minutes of this comedy special during breakfast and Hari is as good as ever. Watch it.</p>\n\n\n<div style=\"position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;\">\n  <iframe src=\"//www.youtube.com/embed/M860rsymDXM\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;\" allowfullscreen title=\"YouTube Video\"></iframe>\n</div>\n\n",
+				"content_text": "[Hari Kondabolu – Vacation Baby](https://www.youtube.com/watch?v=M860rsymDXM) \r\n\r\nI just watched the last 15 minutes of this comedy special during breakfast and Hari is as good as ever. Watch it.\r\n\r\n{{< youtube M860rsymDXM >}}\n",
+				"date_published": "2023-05-17T10:50:44+02:00",
+				"url": "https://www.mangochutney.me/2023/05/17/hari-kondabolu-vacation.html"
+			},
+			{
+				"id": "http://mangochutney.micro.blog/2023/05/14/fyi-star-wars.html",
+				
+				"content_html": "<p>FYI: Star Wars Rebels not only holds up well during a rewatch, it’s some of the best Star Wars there is.</p>\n",
+				"content_text": "FYI: Star Wars Rebels not only holds up well during a rewatch, it’s some of the best Star Wars there is. \n",
+				"date_published": "2023-05-14T19:53:49+02:00",
+				"url": "https://www.mangochutney.me/2023/05/14/fyi-star-wars.html"
+			},
+			{
 				"id": "http://mangochutney.micro.blog/2023/05/13/bin-gerade-hochgradig.html",
 				
 				"content_html": "<p>Bin gerade hochgradig genervt, dass mich die FSME-Auffrischimpfung körperlich so mitnimmt. Habe Gliederschmerzen und bin abgeschlagen. 😩</p>\n",
