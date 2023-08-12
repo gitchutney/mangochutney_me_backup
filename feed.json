@@ -7,10 +7,27 @@
 	"items": [
 		
 			{
+				"id": "http://mangochutney.micro.blog/2023/08/12/good-to-see.html",
+				
+				"content_html": "<p>Good to see Rose offering a new high-quality and affordable road bike with solid geoupset options. Really nice to see a company bucking the trend of ever increasing prices. 🚴🏻‍♂️</p>\n\n<p><a href=\"https://bikerumor.com/rose-reveal-al-modern-affordable-alloy-road-bike/\">Bikerumor: Rose Reveal AL Unveils Affordable Integrated Alloy Road Bike from 1900€</a></p>\n",
+				"content_text": "Good to see Rose offering a new high-quality and affordable road bike with solid geoupset options. Really nice to see a company bucking the trend of ever increasing prices. 🚴🏻‍♂️\n\n[Bikerumor: Rose Reveal AL Unveils Affordable Integrated Alloy Road Bike from 1900€](https://bikerumor.com/rose-reveal-al-modern-affordable-alloy-road-bike/)\n",
+				"date_published": "2023-08-12T12:03:04+02:00",
+				"url": "https://www.mangochutney.me/2023/08/12/good-to-see.html",
+				"tags": ["Cycling"]
+			},
+			{
+				"id": "http://mangochutney.micro.blog/2023/08/04/josh-johnson-is.html",
+				
+				"content_html": "<p><a href=\"https://youtube.com/shorts/nKzSxHPtMhw\">Josh Johnson is so funny and good on those girl scouts.</a></p>\n\n\n<div style=\"position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;\">\n  <iframe src=\"//www.youtube.com/embed/nKzSxHPtMhw\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;\" allowfullscreen title=\"YouTube Video\"></iframe>\n</div>\n\n",
+				"content_text": "[Josh Johnson is so funny and good on those girl scouts.](https://youtube.com/shorts/nKzSxHPtMhw) \n\n{{< youtube nKzSxHPtMhw >}}\n",
+				"date_published": "2023-08-04T13:36:46+02:00",
+				"url": "https://www.mangochutney.me/2023/08/04/josh-johnson-is.html"
+			},
+			{
 				"id": "http://mangochutney.micro.blog/2023/08/03/met-this-little.html",
 				
-				"content_html": "<p>Met this little creature on a hike in the forest on Sunday. No idea what species of frog this is but there were a bunch of them all over the paths. 📷 ⛰️🐸</p>\n\n<p><img src=\"uploads/2023/03b225444e.jpg\" alt=\"Close-up shot of a small frog seen on a forest path in the Black Forest. The frog‘s colours are various shades of brown. It’s quite small, not even 5 cm in length. The photo was taken with a wide aperture rendering only the head and front legs of the frog in sharp detail. \"></p>\n",
-				"content_text": "Met this little creature on a hike in the forest on Sunday. No idea what species of frog this is but there were a bunch of them all over the paths. 📷 ⛰️🐸\n\n<img src=\"uploads/2023/03b225444e.jpg\" alt=\"Close-up shot of a small frog seen on a forest path in the Black Forest. The frog‘s colours are various shades of brown. It’s quite small, not even 5 cm in length. The photo was taken with a wide aperture rendering only the head and front legs of the frog in sharp detail. \">\n",
+				"content_html": "<p>Met this little creature on a hike in the forest on Sunday. No idea what species of frog this is but there were a bunch of them all over the paths.<br />\n📷 ⛰️ 🐸</p>\n\n<p><img src=\"uploads/2023/03b225444e.jpg\" alt=\"Close-up shot of a small frog seen on a forest path in the Black Forest. The frog‘s colours are various shades of brown. It’s quite small, not even 5 cm in length. The photo was taken with a wide aperture rendering only the head and front legs of the frog in sharp detail. \"></p>\n",
+				"content_text": "Met this little creature on a hike in the forest on Sunday. No idea what species of frog this is but there were a bunch of them all over the paths.  \n📷 ⛰️ 🐸\n\n<img src=\"uploads/2023/03b225444e.jpg\" alt=\"Close-up shot of a small frog seen on a forest path in the Black Forest. The frog‘s colours are various shades of brown. It’s quite small, not even 5 cm in length. The photo was taken with a wide aperture rendering only the head and front legs of the frog in sharp detail. \">\n",
 				"date_published": "2023-08-03T10:21:48+02:00",
 				"url": "https://www.mangochutney.me/2023/08/03/met-this-little.html"
 			},
