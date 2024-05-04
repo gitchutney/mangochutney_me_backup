@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://mangochutney.micro.blog/2024/05/04/may-be-with.html",
+				
+				"content_html": "<p>4 May be with you.</p>\n",
+				"content_text": "4 May be with you. \n",
+				"date_published": "2024-05-04T15:27:59+02:00",
+				"url": "https://www.mangochutney.me/2024/05/04/may-be-with.html"
+			},
+			{
+				"id": "http://mangochutney.micro.blog/2024/05/01/tolle-folge-von.html",
+				
+				"content_html": "<p><a href=\"https://overcast.fm/+1UDKDZt9E\">Tolle Folge von “Der Tag” im DLF</a>. Themen sind das durchweg unsoziale Kampfpapier der FDP vor deren Parteitag und eine Einschätzung eines Historikers zur Geldspritze der USA für den Kampf der Ukraine gegen die Invasion Russlands.</p>\n",
+				"content_text": "[Tolle Folge von “Der Tag” im DLF](https://overcast.fm/+1UDKDZt9E). Themen sind das durchweg unsoziale Kampfpapier der FDP vor deren Parteitag und eine Einschätzung eines Historikers zur Geldspritze der USA für den Kampf der Ukraine gegen die Invasion Russlands. \n",
+				"date_published": "2024-05-01T19:31:22+02:00",
+				"url": "https://www.mangochutney.me/2024/05/01/tolle-folge-von.html",
+				"tags": ["auf Deutsch"]
+			},
+			{
 				"id": "http://mangochutney.micro.blog/2024/04/28/launching-a-new.html",
 				
 				"content_html": "<p>Launching a new attempt to change my diet (less carbs, mainly) and I&rsquo;m happily falling down the rabbit hole of foodstagram. Already saved a bunch recipes and tried a few of them with great success.</p>\n",
@@ -35,7 +52,7 @@
 				"id": "http://mangochutney.micro.blog/2024/04/22/not-a-fan.html",
 				
 				"content_html": "<p>Not a fan of pigeons but they are pretty birds. #FujifilmXF70300mm #ProNegHigh</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Not a fan of pigeons but they are pretty birds. #FujifilmXF70300mm #ProNegHigh\n\n<img src=\"uploads/2024/c55a5a04c2.jpg\" width=\"600\" height=\"450\" alt=\"Common pigeon sitting on a green metal cage placed on top of a feeding station for smaller birds. The pigeon looks at the photographer with it right eye and the eye is partly illuminated by the evening sun. The feathers of the pigeon are gleaming in the sunlight. \">\n",
+				"content_text": "Not a fan of pigeons but they are pretty birds. #FujifilmXF70300mm #ProNegHigh\n\n<img src=\"https://cdn.uploads.micro.blog/4828/2024/c55a5a04c2.jpg\" width=\"600\" height=\"450\" alt=\"Common pigeon sitting on a green metal cage placed on top of a feeding station for smaller birds. The pigeon looks at the photographer with it right eye and the eye is partly illuminated by the evening sun. The feathers of the pigeon are gleaming in the sunlight. \">\n",
 				"date_published": "2024-04-22T08:30:39+02:00",
 				"url": "https://www.mangochutney.me/2024/04/22/not-a-fan.html"
 			},
