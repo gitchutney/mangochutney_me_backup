@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://mangochutney.micro.blog/2024/06/26/i-just-had.html",
+				
+				"content_html": "<p>I just had a beautiful image in my head of crypto bros getting into physical fights with the AI crowd because AI is slurping up all of the power they need to run their crypto mining rigs.</p>\n",
+				"content_text": "I just had a beautiful image in my head of crypto bros getting into physical fights with the AI crowd because AI is slurping up all of the power they need to run their crypto mining rigs. \n",
+				"date_published": "2024-06-26T20:03:00+02:00",
+				"url": "https://www.mangochutney.me/2024/06/26/i-just-had.html"
+			},
+			{
+				"id": "http://mangochutney.micro.blog/2024/06/23/habe-mir-das.html",
+				
+				"content_html": "<p>Habe mir das EM-Spiel Schweiz : Deutschland in einem Biergarten angeschaut.<br>\nIch hatte absolut nicht mehr auf dem Schirm, dass dort natürlich geraucht werden würde.<br>\nEs war so unglaublich widerlich. 😶‍🌫️🤮🤬<br>\nKann gerne auf Public Viewing verzichten, wenn dort geraucht wird.</p>\n",
+				"content_text": "Habe mir das EM-Spiel Schweiz : Deutschland in einem Biergarten angeschaut.  \nIch hatte absolut nicht mehr auf dem Schirm, dass dort natürlich geraucht werden würde.  \nEs war so unglaublich widerlich. 😶‍🌫️🤮🤬  \nKann gerne auf Public Viewing verzichten, wenn dort geraucht wird. \n",
+				"date_published": "2024-06-23T23:56:08+02:00",
+				"url": "https://www.mangochutney.me/2024/06/23/habe-mir-das.html",
+				"tags": ["auf Deutsch"]
+			},
+			{
 				"id": "http://mangochutney.micro.blog/2024/06/21/what-an-excellent.html",
 				
 				"content_html": "<p>What an excellent news segment <a href=\"https://youtu.be/ulEynBx7dsg\">on The Daily Show last night</a>. Equal mix of head-shaking and laughter for me.</p>\n\n<div style=\"position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;\">\n  <iframe src=\"https://www.youtube.com/embed/ulEynBx7dsg\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;\" allowfullscreen title=\"YouTube Video\"></iframe>\n</div>\n\n",
@@ -42,7 +59,7 @@
 				"id": "http://mangochutney.micro.blog/2024/06/05/soon.html",
 				
 				"content_html": "<p>Soon… 😏</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Soon… 😏\n\n<img src=\"uploads/2024/6721288c82.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Soon… 😏\n\n<img src=\"https://cdn.uploads.micro.blog/4828/2024/6721288c82.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-06-05T10:47:45+02:00",
 				"url": "https://www.mangochutney.me/2024/06/05/soon.html"
 			},
