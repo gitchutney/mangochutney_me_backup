@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://mangochutney.micro.blog/2024/07/19/its-an-older.html",
+				
+				"content_html": "<p>It’s an older video but still oh-so relevant:<br>\n<a href=\"https://youtu.be/0Cu6EbELZ6I\">Adam Conover: “Why there’s no such thing as a good billionaire”</a></p>\n\n<div style=\"position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;\">\n  <iframe src=\"https://www.youtube.com/embed/0Cu6EbELZ6I\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;\" allowfullscreen title=\"YouTube Video\"></iframe>\n</div>\n\n",
+				"content_text": "It’s an older video but still oh-so relevant:  \n[Adam Conover: “Why there’s no such thing as a good billionaire”](https://youtu.be/0Cu6EbELZ6I)\n\n{{< youtube 0Cu6EbELZ6I >}}\n",
+				"date_published": "2024-07-19T10:09:55+02:00",
+				"url": "https://www.mangochutney.me/2024/07/19/its-an-older.html"
+			},
+			{
+				"id": "http://mangochutney.micro.blog/2024/07/16/strawberry-fields-on.html",
+				
+				"content_html": "<p>Strawberry fields on our way home from a middle ages fair in Waldkirch. #LeicaQ3 #RNIFilms</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Strawberry fields on our way home from a middle ages fair in Waldkirch. #LeicaQ3 #RNIFilms\n\n<img src=\"uploads/2024/6c08bb458f.jpg\" width=\"600\" height=\"399\" alt=\"A cloudless sky shortly before dusk. Rows of strawberries extending diagonally into the distance beneath the uncovered semi-circular metal skeleton structures of large greenhouses. In the distance a tree line is visible.\">\n",
+				"date_published": "2024-07-16T09:14:27+02:00",
+				"url": "https://www.mangochutney.me/2024/07/16/strawberry-fields-on.html",
+				"tags": ["Photos"]
+			},
+			{
 				"id": "http://mangochutney.micro.blog/2024/07/13/this-article-by.html",
 				
 				"content_html": "<p><a href=\"https://www.macstories.net/stories/lgbt-and-marginalized-voices-are-not-welcome-on-threads/\">This article</a> by <a href=\"https://micro.blog/nileane@nileane.fr\">@nileane@nileane.fr</a> about Meta‘s hostile stance towards LGBT and other marginalized voices on Threads is sad but entirely unsurprising. Hate drives engagement. I‘m really glad for the fediverse and I hope it will continue to grow and start to gain relevance.</p>\n",
