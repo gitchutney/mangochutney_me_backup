@@ -7,10 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://mangochutney.micro.blog/2024/10/01/i-love-really.html",
+				
+				"content_html": "<p>I love (really don’t) how well companies understand passkeys. 🙄</p>\n<p>Why yes, please do have me go through 2FA over SMS after I already verified myself using an actually secure method.</p>\n<p>Looking at you, eBay and PayPal.</p>\n",
+				"content_text": "I love (really don’t) how well companies understand passkeys. 🙄 \n\nWhy yes, please do have me go through 2FA over SMS after I already verified myself using an actually secure method. \n\nLooking at you, eBay and PayPal. \n",
+				"date_published": "2024-10-01T10:28:56+02:00",
+				"url": "https://www.mangochutney.me/2024/10/01/i-love-really.html"
+			},
+			{
+				"id": "http://mangochutney.micro.blog/2024/09/30/john-oliver-is.html",
+				
+				"content_html": "<p>John Oliver is one of the few comedians that I’ve been following for years and years. <a href=\"https://youtu.be/Q9kNMJ8SguQ\">This interview</a> was a treat. I appreciate understanding his and his team’s approach behind „Last Week Tonight“ better now.</p>\n\n<div style=\"position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;\">\n  <iframe src=\"https://www.youtube.com/embed/Q9kNMJ8SguQ\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;\" allowfullscreen title=\"YouTube Video\"></iframe>\n</div>\n\n",
+				"content_text": "John Oliver is one of the few comedians that I’ve been following for years and years. [This interview](https://youtu.be/Q9kNMJ8SguQ) was a treat. I appreciate understanding his and his team’s approach behind „Last Week Tonight“ better now. \n\n{{< youtube Q9kNMJ8SguQ >}}\n",
+				"date_published": "2024-09-30T07:42:49+02:00",
+				"url": "https://www.mangochutney.me/2024/09/30/john-oliver-is.html"
+			},
+			{
+				"id": "http://mangochutney.micro.blog/2024/09/27/good-coffee-is.html",
+				
+				"content_html": "<p>Good coffee is so important.</p>\n",
+				"content_text": "Good coffee is so important. \n",
+				"date_published": "2024-09-27T12:07:44+02:00",
+				"url": "https://www.mangochutney.me/2024/09/27/good-coffee-is.html"
+			},
+			{
+				"id": "http://mangochutney.micro.blog/2024/09/26/the-numbers-heart.html",
+				
+				"content_html": "<p><a href=\"https://www.instagram.com/reel/DAV7d4-vU2E/\">The numbers (heart rate, power) Tadej Pogačar puts out</a>, at what is a recovery or aerobic pace for him, are absolutely unreal. 🚲</p>\n",
+				"content_text": "[The numbers (heart rate, power) Tadej Pogačar puts out](https://www.instagram.com/reel/DAV7d4-vU2E/), at what is a recovery or aerobic pace for him, are absolutely unreal. 🚲\n",
+				"date_published": "2024-09-26T09:03:18+02:00",
+				"url": "https://www.mangochutney.me/2024/09/26/the-numbers-heart.html",
+				"tags": ["Cycling"]
+			},
+			{
+				"id": "http://mangochutney.micro.blog/2024/09/25/what-guillermo-del.html",
+				
+				"content_html": "<p><a href=\"https://youtube.com/shorts/Rdhhq8-edYg\">What Guillermo del Toro said.</a> I‘ve honestly had it up to here 🖕🏻 with AI. All that these companies do is go after the easiest and flashiest thing and they do so by stealing other people’s work and art. Fuck that. Develop AI to the point of being useful and curing illnesses or GTFO.</p>\n",
+				"content_text": "[What Guillermo del Toro said.](https://youtube.com/shorts/Rdhhq8-edYg) I‘ve honestly had it up to here 🖕🏻 with AI. All that these companies do is go after the easiest and flashiest thing and they do so by stealing other people’s work and art. Fuck that. Develop AI to the point of being useful and curing illnesses or GTFO. \n",
+				"date_published": "2024-09-25T09:13:20+02:00",
+				"url": "https://www.mangochutney.me/2024/09/25/what-guillermo-del.html"
+			},
+			{
 				"id": "http://mangochutney.micro.blog/2024/09/25/mm-works-fine.html",
 				"title": "33 mm works fine",
 				"content_html": "<p>Cycling journalist Ben Delaney <a href=\"https://youtu.be/y1FYcatmwVI\">has a really good video up on his youtube channel</a> about gravel bikes that work well as road/endurance bikes and road bikes that can reasonably serve double-duty on gravel. Most of the discussion is around tire clearance and the head tube angle.</p>\n<p>I found my sweet spot in the Van Nicholas Yukon Disc. It has a 72° head tube angle and I can easily fit 37 mm wide semi-knobbly 700×35c Schwalbe G-One RS tires, or my current favorite, the trusty old Schwalbe X-One 700×33c CX tires, which give me a bit more clearance and a lot more grip in muddy conditions.</p>\n<p>As a side note: I enjoy the recent trend towards &ldquo;all-road bikes&rdquo; because many bike manufacturers can simply grab their old audax bike design from the basement, update the geometry slightly, and have something to present as new to consumers.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Cycling journalist Ben Delaney [has a really good video up on his youtube channel](https://youtu.be/y1FYcatmwVI) about gravel bikes that work well as road/endurance bikes and road bikes that can reasonably serve double-duty on gravel. Most of the discussion is around tire clearance and the head tube angle. \r\n\r\nI found my sweet spot in the Van Nicholas Yukon Disc. It has a 72° head tube angle and I can easily fit 37 mm wide semi-knobbly 700×35c Schwalbe G-One RS tires, or my current favorite, the trusty old Schwalbe X-One 700×33c CX tires, which give me a bit more clearance and a lot more grip in muddy conditions. \r\n\r\nAs a side note: I enjoy the recent trend towards \"all-road bikes\" because many bike manufacturers can simply grab their old audax bike design from the basement, update the geometry slightly, and have something to present as new to consumers.\n\n<img src=\"https://cdn.uploads.micro.blog/4828/2024/l1020595.jpg\" width=\"600\" height=\"400\" alt=\"Unpainted titanium-framed bicycle with a black carbon fork, black aluminium rims, knobbly cyclocross tires and a small saddle bag leaning against a house wall. The entire image looks almost monochromatic even though it isn't.\">\n",
+				"content_text": "Cycling journalist Ben Delaney [has a really good video up on his youtube channel](https://youtu.be/y1FYcatmwVI) about gravel bikes that work well as road/endurance bikes and road bikes that can reasonably serve double-duty on gravel. Most of the discussion is around tire clearance and the head tube angle. \r\n\r\nI found my sweet spot in the Van Nicholas Yukon Disc. It has a 72° head tube angle and I can easily fit 37 mm wide semi-knobbly 700×35c Schwalbe G-One RS tires, or my current favorite, the trusty old Schwalbe X-One 700×33c CX tires, which give me a bit more clearance and a lot more grip in muddy conditions. \r\n\r\nAs a side note: I enjoy the recent trend towards \"all-road bikes\" because many bike manufacturers can simply grab their old audax bike design from the basement, update the geometry slightly, and have something to present as new to consumers.\n\n<img src=\"uploads/2024/l1020595.jpg\" width=\"600\" height=\"400\" alt=\"Unpainted titanium-framed bicycle with a black carbon fork, black aluminium rims, knobbly cyclocross tires and a small saddle bag leaning against a house wall. The entire image looks almost monochromatic even though it isn't.\">\n",
 				"date_published": "2024-09-25T08:46:22+02:00",
 				"url": "https://www.mangochutney.me/2024/09/25/mm-works-fine.html"
 			},
@@ -26,7 +67,7 @@
 				"id": "http://mangochutney.micro.blog/2024/09/19/my-view-after.html",
 				
 				"content_html": "<p>My view after departing a campsite in Aarburg last week. It was so gloomy. I didn’t edit this image at all. #LeicaQ3 #SOOC</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My view after departing a campsite in Aarburg last week. It was so gloomy. I didn’t edit this image at all. #LeicaQ3 #SOOC \n\n<img src=\"https://cdn.uploads.micro.blog/4828/2024/34d7a693d7.jpg\" width=\"600\" height=\"375\" alt=\"Scene overlooking a spot where two parts of the same river meet in the city of Aarburg in Switzerland. In the background a bridge on the left is leading towards a hill lined by a few houses and topped by a fort. Closest to the viewer is a church with two spires. The entire scene is gloomy overcast by grey clouds. \">\n",
+				"content_text": "My view after departing a campsite in Aarburg last week. It was so gloomy. I didn’t edit this image at all. #LeicaQ3 #SOOC \n\n<img src=\"uploads/2024/34d7a693d7.jpg\" width=\"600\" height=\"375\" alt=\"Scene overlooking a spot where two parts of the same river meet in the city of Aarburg in Switzerland. In the background a bridge on the left is leading towards a hill lined by a few houses and topped by a fort. Closest to the viewer is a church with two spires. The entire scene is gloomy overcast by grey clouds. \">\n",
 				"date_published": "2024-09-19T11:23:14+02:00",
 				"url": "https://www.mangochutney.me/2024/09/19/my-view-after.html",
 				"tags": ["Photos"]
@@ -35,7 +76,7 @@
 				"id": "http://mangochutney.micro.blog/2024/09/18/captured-close-to.html",
 				
 				"content_html": "<p>Captured close to Zurich airport during a bikepacking trip last week. #LeicaQ3 #RNIFilms #FujifilmSuperia200</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Captured close to Zurich airport during a bikepacking trip last week. #LeicaQ3 #RNIFilms #FujifilmSuperia200\n\n<img src=\"https://cdn.uploads.micro.blog/4828/2024/886321edf7.jpg\" width=\"399\" height=\"600\" alt=\"Scene of a plane rising into the air in the distance amid scattered bright white clouds. The sky is a light blue. On the left of the frame a big tree can be seen on a field slanted softly downward to the right on other other side of which a farm house can be seen far away. The green field extends towards the foreground and the photographer. \">\n",
+				"content_text": "Captured close to Zurich airport during a bikepacking trip last week. #LeicaQ3 #RNIFilms #FujifilmSuperia200\n\n<img src=\"uploads/2024/886321edf7.jpg\" width=\"399\" height=\"600\" alt=\"Scene of a plane rising into the air in the distance amid scattered bright white clouds. The sky is a light blue. On the left of the frame a big tree can be seen on a field slanted softly downward to the right on other other side of which a farm house can be seen far away. The green field extends towards the foreground and the photographer. \">\n",
 				"date_published": "2024-09-18T10:44:43+02:00",
 				"url": "https://www.mangochutney.me/2024/09/18/captured-close-to.html",
 				"tags": ["Photos"]
