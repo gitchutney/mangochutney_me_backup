@@ -7,6 +7,57 @@
 	"items": [
 		
 			{
+				"id": "http://mangochutney.micro.blog/2024/11/29/winter-is-here.html",
+				
+				"content_html": "<p>Winter is here and I am here for it. Morning walks when everything is still frozen are one of my favourite activities. #NikonD850 #Nikon70200F28E</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Winter is here and I am here for it. Morning walks when everything is still frozen are one of my favourite activities. #NikonD850 #Nikon70200F28E\n\n<img src=\"uploads/2024/a915a2d456.jpg\" width=\"600\" height=\"400\" alt=\"A rose bush branch with a few leaves at the tip frozen on a winter morning. The leaves show all colors from green to brown. The background is completely blurred. \">\n",
+				"date_published": "2024-11-29T11:03:12+01:00",
+				"url": "https://www.mangochutney.me/2024/11/29/winter-is-here.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mangochutney.micro.blog/2024/11/27/thats-amazing-i.html",
+				
+				"content_html": "<p><a href=\"https://journa.host/@ericpierce/113550988764728856\">That’s amazing. I needs it.</a></p>\n",
+				"content_text": "[That’s amazing. I needs it.](https://journa.host/@ericpierce/113550988764728856) \n",
+				"date_published": "2024-11-27T09:11:34+01:00",
+				"url": "https://www.mangochutney.me/2024/11/27/thats-amazing-i.html"
+			},
+			{
+				"id": "http://mangochutney.micro.blog/2024/11/27/made-me-giggle.html",
+				
+				"content_html": "<p>Made me giggle that these songs came up right after one another while on shuffle.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Made me giggle that these songs came up right after one another while on shuffle. \n\n<img src=\"uploads/2024/ec08cf88ee.jpg\" width=\"600\" height=\"224\" alt=\"Partial screenshot of a playlist in the Apple Music app on an iPhone showing the song that was just played „Smells Like Funk“ by the Black Eyed Peas was followed by the song „So Fresh, so Clean“ by OutKast. \">\n",
+				"date_published": "2024-11-27T07:50:10+01:00",
+				"url": "https://www.mangochutney.me/2024/11/27/made-me-giggle.html"
+			},
+			{
+				"id": "http://mangochutney.micro.blog/2024/11/24/very-sunday-much.html",
+				
+				"content_html": "<p>Very Sunday, much 💤\n#NikonD850 #Nikon70200F28E #RNIFilms #FujiAstia100Fv2</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Very Sunday, much 💤\n  #NikonD850 #Nikon70200F28E #RNIFilms #FujiAstia100Fv2\n\n<img src=\"uploads/2024/16482fe2fd.jpg\" width=\"480\" height=\"600\" alt=\"Close-up shot (head, front legs, upper torso) of a golden-haired small dog (breed: Kokoni) laying on a white sofa on a white fuzzy blanket with closed eyes sleeping. The sun is illuminating the dog from the back, making the fur on the neck glow. \">\n",
+				"date_published": "2024-11-24T12:52:58+01:00",
+				"url": "https://www.mangochutney.me/2024/11/24/very-sunday-much.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://mangochutney.micro.blog/2024/11/24/this-is-one.html",
+				
+				"content_html": "<p>This is one of those rare Black Fridays where I‘m actually looking for a couple of things and I just snagged a good deal on a Canon Selphy SP1500 photo printer with two extra packs of paper and ink based on a recommendation from my colleague <a href=\"https://micro.blog/MrRooni@mastodon.social\">@MrRooni@mastodon.social</a>.</p>\n",
+				"content_text": "This is one of those rare Black Fridays where I‘m actually looking for a couple of things and I just snagged a good deal on a Canon Selphy SP1500 photo printer with two extra packs of paper and ink based on a recommendation from my colleague [@MrRooni@mastodon.social](https://micro.blog/MrRooni@mastodon.social).\n",
+				"date_published": "2024-11-24T10:49:08+01:00",
+				"url": "https://www.mangochutney.me/2024/11/24/this-is-one.html"
+			},
+			{
+				"id": "http://mangochutney.micro.blog/2024/11/23/liebe-es-ja.html",
+				
+				"content_html": "<p>Liebe es ja, wenn ich versuche im lokalen Einzelhandel zu kaufen, um diesen zu unterstützen. Nur damit die Bestellung ohne Erklärung storniert wird und mir erst auf Nachfrage per Telefon gesagt wird, dass die Ware im Markt nicht auffindbar ist. Dann halt wieder online bestellt. Und Geld gespart.</p>\n",
+				"content_text": "Liebe es ja, wenn ich versuche im lokalen Einzelhandel zu kaufen, um diesen zu unterstützen. Nur damit die Bestellung ohne Erklärung storniert wird und mir erst auf Nachfrage per Telefon gesagt wird, dass die Ware im Markt nicht auffindbar ist. Dann halt wieder online bestellt. Und Geld gespart.\n",
+				"date_published": "2024-11-23T12:53:28+01:00",
+				"url": "https://www.mangochutney.me/2024/11/23/liebe-es-ja.html",
+				"tags": ["auf Deutsch"]
+			},
+			{
 				"id": "http://mangochutney.micro.blog/2024/11/22/it-may-be.html",
 				"title": "It may be a good idea to export your Strava data archive",
 				"content_html": "<p>Interesting stuff is happening around Strava. They&rsquo;ve introduced new developer API terms that seem to break most connected third party services that focus around providing training advice and coaching to end users.</p>\n<p>Strava claims that the changes have been made to strengthen end-user privacy and prevent peoples' data from ending up in countless places used to train AI models. This, I can absolutely get behind. I don&rsquo;t care for AI one bit and I don&rsquo;t want my data scraped for it, especially not biometric data.</p>\n<p>The way the new developer API usage terms and conditions are phrased, though, indicates that Strava is trying to bamboozle customers into thinking that&rsquo;s the main reason. Effectively what they appear to be doing is killing the ecosystem.</p>\n<p>Ray Maker of DC Rainmaker <a href=\"https://www.dcrainmaker.com/2024/11/stravas-changes-to-kill-off-apps.html\">has a good summary of things on his site</a> that&rsquo;s worth a read and includes the most recent update on the situation by Strava on 19 Nov.</p>\n<p>There are two things that give me a very bad feeling about the situation:</p>\n<ol>\n<li>Strava announced that any discussion on their community forum around this topic would not be tolerated. If there was anything they could&rsquo;ve done to ensure people would understand that this change is user-hostile, it was this.</li>\n<li>In most of the language in the announcement and the developer API terms of service, Strava talks about &ldquo;Stava data&rdquo; and how that data is their property. What they refer to is <em>my data</em>. That&rsquo;s my training data given to Strava and not even through their app but through my Hammerhead cycling computer, my Concept2 rowing machine and other sources.  I understand that they are hosting the information and providing me with a service that I pay for but that doesn&rsquo;t give them permission to do with the data as they please.</li>\n</ol>\n<p>In the end, Strava is a business like any other and if they do not want to provide a platform that other companies build their business model on, I get that but then please just say that and see people move on to the next one that offers better conditions.<br>\nI appreciated having a platform where I could aggregate my fitness data outside of the Apple ecosystem (I use the Apple fitness and health apps intensely) and even connect to other services I use but I&rsquo;m just as happy using a different service for this.</p>\n<p>As a precautionary measure, I&rsquo;ve <a href=\"https://support.strava.com/hc/en-us/articles/216918437-Exporting-your-Data-and-Bulk-Export#h_01GG58HC4F1BGQ9PQZZVANN6WF\">exported an archive of my Strava data</a> and if you use Strava and don&rsquo;t like the changes they&rsquo;re making, maybe you should, too.</p>\n",
