@@ -7,6 +7,40 @@
 	"items": [
 		
 			{
+				"id": "http://mangochutney.micro.blog/2025/01/02/sehr-lesenswerter-kommentar-von-daniela.html",
+				
+				"content_html": "<p>Sehr <a href=\"https://taz.de/Problematischer-Vorstoss-der-CDU/!6056569/\">lesenswerter Kommentar von Daniela Sepehri</a> zu Carsten Linnemanns (Generalsekretär, CDU) völlig unhaltbarem Vorstoß nach dem rechtsextremen Terroranschlag in Magdeburg ein Register psychisch kranker Personen einzuführen.</p>\n",
+				"content_text": "Sehr [lesenswerter Kommentar von Daniela Sepehri](https://taz.de/Problematischer-Vorstoss-der-CDU/!6056569/) zu Carsten Linnemanns (Generalsekretär, CDU) völlig unhaltbarem Vorstoß nach dem rechtsextremen Terroranschlag in Magdeburg ein Register psychisch kranker Personen einzuführen. \n",
+				"date_published": "2025-01-02T07:09:37+01:00",
+				"url": "https://www.mangochutney.me/2025/01/02/sehr-lesenswerter-kommentar-von-daniela.html",
+				"tags": ["auf Deutsch"]
+			},
+			{
+				"id": "http://mangochutney.micro.blog/2024/12/31/inspired-by-a-response-i.html",
+				
+				"content_html": "<p>Inspired by a response I sent to a person on Mastodon, I made this my new lockscreen wallpaper.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Inspired by a response I sent to a person on Mastodon, I made this my new lockscreen wallpaper. \n\n<img src=\"https://cdn.uploads.micro.blog/4828/2024/image.png\" width=\"277\" height=\"600\" alt=\"iOS lockscreen screenshot showing a female blackbird peeking over a mossy concrete wall and looking directly at the photographer. The bird‘s head and neck are perfectly in focus while the wall in front of the bird and the greenery behind the bird are out of focus. Text on the lockscreen is white. The time shows as 13:37 and there are a few widgets on screen. \">\n",
+				"date_published": "2024-12-31T16:26:51+01:00",
+				"url": "https://www.mangochutney.me/2024/12/31/inspired-by-a-response-i.html"
+			},
+			{
+				"id": "http://mangochutney.micro.blog/2024/12/28/this-a-thousand-times-this.html",
+				
+				"content_html": "<p>This. A thousand times this.</p>\n<p>(Design by the artist „Dyna Moe“ available at their website <a href=\"https://www.nobodyssweetheart.com/\">www.nobodyssweetheart.com</a>)</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "This. A thousand times this. \n\n(Design by the artist „Dyna Moe“ available at their website [www.nobodyssweetheart.com](https://www.nobodyssweetheart.com/))\n\n<img src=\"https://cdn.uploads.micro.blog/4828/2024/e8dc94b5db.jpg\" width=\"600\" height=\"600\" alt=\"Gold Banner on Red Background:&10;&10;Stop Forcing A.I. into Fucking EVERYTHING!&10;Nobody Asked For It; Everyone Hates It&10;&10;Art by „Dyna Moe“ [www.nobodyssweetheart.com](https://www.nobodyssweetheart.com/)\">\n",
+				"date_published": "2024-12-28T11:32:02+01:00",
+				"url": "https://www.mangochutney.me/2024/12/28/this-a-thousand-times-this.html"
+			},
+			{
+				"id": "http://mangochutney.micro.blog/2024/12/27/spent-a-day-in-colmar.html",
+				
+				"content_html": "<p>Spent a day in Colmar, France and visited the Christmas market. Good fun and some good food, too. #LeicaQ3 #SonyRX100VII</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Spent a day in Colmar, France and visited the Christmas market. Good fun and some good food, too. #LeicaQ3 #SonyRX100VII\n\n<img src=\"https://cdn.uploads.micro.blog/4828/2024/20241227-20241227dsc0649.jpeg\" width=\"600\" height=\"400\" alt=\"Tower of a church building shot from the ground. The tower is partly covered by construction scaffolding. Sky dominates the image. The sky is cloud-free but slightly hazy. A distant plane and contrail stretches from the bottom right of the frame towards the center, almost approaching the tower.\"><img src=\"https://cdn.uploads.micro.blog/4828/2024/20241227-l1003627.jpeg\" width=\"600\" height=\"399\" alt=\"Life-size plastic figure of Disney‘s Snow White standing in front of the side of a Christmas market/fair ride. The right of the frame is dominated by a faux brown brick house. In the center background of the frame a Christmas tree is visible and various other decorations.\"><img src=\"https://cdn.uploads.micro.blog/4828/2024/20241227dsc0641.jpeg\" width=\"600\" height=\"450\" alt=\"Alsac-style „Rösti“ in a cast-iron skillet on a wooden plate. To the right of the skillet a knife and fork lay on a paper napkin. Behind the skillet and away from the photographer the dish of a different diner is visible.\"><img src=\"https://cdn.uploads.micro.blog/4828/2024/20241227-l1003636.jpeg\" width=\"600\" height=\"399\" alt=\"Low light exposure of train station tracks and matching infrastructure captured at dusk. The sky has hues of pink and orange.\">\n",
+				"date_published": "2024-12-27T22:30:30+01:00",
+				"url": "https://www.mangochutney.me/2024/12/27/spent-a-day-in-colmar.html",
+				"tags": ["Photos"]
+			},
+			{
 				"id": "http://mangochutney.micro.blog/2024/12/27/while-checking-out-the-sony.html",
 				
 				"content_html": "<p>While checking out the Sony RX100M7, I‘ve inevitably run into noise issues at higher ISO values. Lightroom‘s de-noise feature is awful and the „AI“ de-noise is too aggressive. Gave DxO PureRaw a try and the results are encouraging. Definitely makes images out of this small camera more usable.</p>\n",
